@@ -1,0 +1,10 @@
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Chart.Data.dll
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Chart.Data.pdb
+C:\Development\ChartAPI\Chart.Data\obj\Debug\Chart.Data.dll
+C:\Development\ChartAPI\Chart.Data\obj\Debug\Chart.Data.pdb
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Dapper.dll
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Dapper.pdb
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Dapper.xml
+C:\Development\ChartAPI\Chart.Data\obj\Debug\Chart.Data.csprojResolveAssemblyReference.cache
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Chart.Core.dll
+C:\Development\ChartAPI\Chart.Data\bin\Debug\Chart.Core.pdb

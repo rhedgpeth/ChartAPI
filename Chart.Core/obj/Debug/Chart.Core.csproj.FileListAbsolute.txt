@@ -1,0 +1,4 @@
+C:\Development\ChartAPI\Chart.Core\bin\Debug\Chart.Core.dll
+C:\Development\ChartAPI\Chart.Core\bin\Debug\Chart.Core.pdb
+C:\Development\ChartAPI\Chart.Core\obj\Debug\Chart.Core.dll
+C:\Development\ChartAPI\Chart.Core\obj\Debug\Chart.Core.pdb

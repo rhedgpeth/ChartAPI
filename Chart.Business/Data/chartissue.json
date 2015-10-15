@@ -1,0 +1,6033 @@
+
+{
+	"total": 100,
+	"format_id": "HSI",
+	"chart_name": "Hot 100",
+	"issue_date": "03/21/2015",
+	"items": [ 
+		{
+			"rank": 1,
+			"feature_code": " ",
+			"artist_name": "Mark Ronson Featuring Bruno Mars",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 85391,
+					"artist_name": "Mark Ronson",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 107277,
+					"artist_name": "Bruno Mars",
+					"credit": 0.3
+				}],
+			"title": "Uptown Funk!",
+			"imprint": "RCA",
+			"label": "",
+			"writer_names": "Peter \"Bruno Mars\" Gene Hernandez, Philip Lawrence II, Mark Ronson, Jeffrey Bhasker, Devon Gallaspy, Nicholaus \"Trinidad James\" Williams",
+			"short_writer_names": "Bruno Mars, P.Lawrence II, M.Ronson, J.Bhasker, D.Gallaspy, N.Williams",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 18838,
+					"writer_name": "Mark Ronson",
+					"short_name": "M.Ronson"
+				},
+				{
+					"billboard_writer_id": 20415,
+					"writer_name": "Jeffrey Bhasker",
+					"short_name": "J.Bhasker"
+				},
+				{
+					"billboard_writer_id": 22269,
+					"writer_name": "Philip Lawrence II",
+					"short_name": "P.Lawrence II"
+				},
+				{
+					"billboard_writer_id": 22562,
+					"writer_name": "Peter \"Bruno Mars\" Gene Hernandez",
+					"short_name": "Bruno Mars"
+				},
+				{
+					"billboard_writer_id": 27272,
+					"writer_name": "Nicholaus \"Trinidad James\" Williams",
+					"short_name": "N.Williams"
+				},
+				{
+					"billboard_writer_id": 29719,
+					"writer_name": "Devon Gallaspy",
+					"short_name": "D.Gallaspy"
+				}],
+			"producer_names": "Mark Ronson, Jeffrey Bhasker, Peter \"Bruno Mars\" Hernandez",
+			"short_producer_names": "M.Ronson, J.Bhasker, Bruno Mars",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 13969,
+					"producer_name": "Mark Ronson",
+					"short_name": "M.Ronson"
+				},
+				{
+					"billboard_producer_id": 14834,
+					"producer_name": "Jeffrey Bhasker",
+					"short_name": "J.Bhasker"
+				},
+				{
+					"billboard_producer_id": 15973,
+					"producer_name": "Peter \"Bruno Mars\" Hernandez",
+					"short_name": "Bruno Mars"
+				}],
+			"billboard_artist_id": 133673,
+			"billboard_title_id": 868081,
+			"rank_lw": 1,
+			"rank_2w": 1,
+			"peak_rank": 1,
+			"peak_date": "01/17/2015",
+			"debut_rank": 65,
+			"debut_date": "11/29/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 2,
+			"feature_code": " ",
+			"artist_name": "Ed Sheeran",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 114195,
+					"artist_name": "Ed Sheeran",
+					"credit": 1
+				}],
+			"title": "Thinking Out Loud",
+			"imprint": "Atlantic",
+			"label": "",
+			"writer_names": "Edward \"Ed\" Christopher Sheeran, Amy Wadge",
+			"short_writer_names": "E.C.Sheeran, A.Wadge",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26496,
+					"writer_name": "Edward \"Ed\" Christopher Sheeran",
+					"short_name": "E.C.Sheeran"
+				},
+				{
+					"billboard_writer_id": 29221,
+					"writer_name": "Amy Wadge",
+					"short_name": "A.Wadge"
+				}],
+			"producer_names": "Jake Gosling",
+			"short_producer_names": "J.Gosling",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17512,
+					"producer_name": "Jake Gosling",
+					"short_name": "J.Gosling"
+				}],
+			"billboard_artist_id": 114195,
+			"billboard_title_id": 849905,
+			"rank_lw": 2,
+			"rank_2w": 2,
+			"peak_rank": 2,
+			"peak_date": "01/31/2015",
+			"debut_rank": 69,
+			"debut_date": "10/25/2014",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 3,
+			"feature_code": "B",
+			"artist_name": "Maroon 5",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83646,
+					"artist_name": "Maroon 5",
+					"credit": 1
+				}],
+			"title": "Sugar",
+			"imprint": "222",
+			"label": "Interscope",
+			"writer_names": "Adam Levine, Joshua Coleman, Lukasz \"Dr. Luke\" Gottwald, Jacob \"Jahmal House/J Kash\" Kasher Hindlin, Michael Posner, Henry \"Cirkut\" Russell Walter",
+			"short_writer_names": "A.Levine, J.Coleman, L.Gottwald, Jahmal House, M.Posner, H.R.Walter",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5877,
+					"writer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "L.Gottwald"
+				},
+				{
+					"billboard_writer_id": 22924,
+					"writer_name": "Henry \"Cirkut\" Russell Walter",
+					"short_name": "H.R.Walter"
+				},
+				{
+					"billboard_writer_id": 23070,
+					"writer_name": "Jacob \"Jahmal House/J Kash\" Kasher Hindlin",
+					"short_name": "Jahmal House"
+				},
+				{
+					"billboard_writer_id": 24153,
+					"writer_name": "Michael Posner",
+					"short_name": "M.Posner"
+				},
+				{
+					"billboard_writer_id": 25066,
+					"writer_name": "Joshua Coleman",
+					"short_name": "J.Coleman"
+				},
+				{
+					"billboard_writer_id": 29178,
+					"writer_name": "Adam Levine",
+					"short_name": "A.Levine"
+				}],
+			"producer_names": "Ammo, Henry \"Cirkut\" Russell  Walter",
+			"short_producer_names": "Ammo, Cirkut",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16694,
+					"producer_name": "Ammo",
+					"short_name": "Ammo"
+				},
+				{
+					"billboard_producer_id": 17330,
+					"producer_name": "Henry \"Cirkut\" Russell  Walter",
+					"short_name": "Cirkut"
+				}],
+			"billboard_artist_id": 83646,
+			"billboard_title_id": 859093,
+			"rank_lw": 3,
+			"rank_2w": 4,
+			"peak_rank": 3,
+			"peak_date": "03/14/2015",
+			"debut_rank": 8,
+			"debut_date": "01/31/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 4,
+			"feature_code": "I",
+			"artist_name": "Ellie Goulding",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 107971,
+					"artist_name": "Ellie Goulding",
+					"credit": 1
+				}],
+			"title": "Love Me Like You Do",
+			"imprint": "Universal Studios/Republic",
+			"label": "Interscope",
+			"writer_names": "Martin Karl \"Max Martin\" Sandberg, Savan Kotecha, Ilya Salmanzadeh, Ali Payami, Tove Lo",
+			"short_writer_names": "Max Martin, S.Kotecha, I.Salmanzadeh, A.Payami, T.Lo",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 20066,
+					"writer_name": "Savan Kotecha",
+					"short_name": "S.Kotecha"
+				},
+				{
+					"billboard_writer_id": 25720,
+					"writer_name": "Ilya Salmanzadeh",
+					"short_name": "I.Salmanzadeh"
+				},
+				{
+					"billboard_writer_id": 28308,
+					"writer_name": "Tove Lo",
+					"short_name": "T.Lo"
+				},
+				{
+					"billboard_writer_id": 29592,
+					"writer_name": "Ali Payami",
+					"short_name": "A.Payami"
+				}],
+			"producer_names": "Martin Karl \"Max Martin\" Sandberg, Ali Payami",
+			"short_producer_names": "Max Martin, A.Payami",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10915,
+					"producer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_producer_id": 18992,
+					"producer_name": "Ali Payami",
+					"short_name": "A.Payami"
+				}],
+			"billboard_artist_id": 107971,
+			"billboard_title_id": 874499,
+			"rank_lw": 4,
+			"rank_2w": 3,
+			"peak_rank": 3,
+			"peak_date": "03/07/2015",
+			"debut_rank": 45,
+			"debut_date": "01/24/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 5,
+			"feature_code": "B",
+			"artist_name": "Rihanna & Kanye West & Paul McCartney",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 1153,
+					"artist_name": "Paul McCartney",
+					"credit": 0.33333
+				},
+				{
+					"billboard_artist_id": 84655,
+					"artist_name": "Kanye West",
+					"credit": 0.33333
+				},
+				{
+					"billboard_artist_id": 89475,
+					"artist_name": "Rihanna",
+					"credit": 0.33333
+				}],
+			"title": "FourFiveSeconds",
+			"imprint": "Westbury Road",
+			"label": "Roc Nation",
+			"writer_names": "Kanye Omari West, Paul McCartney, Kirby Dockery, Michael G. Dean, Tyrone \"Ty Dolla $ign\" Griffin Jr, Dave Longstreth, Dallas L. Austin, Elon Rutberg, Noah Goldstein",
+			"short_writer_names": "K.O.West, P.McCartney, K.Dockery, M.G.Dean, T.Griffin Jr, D.Longstreth, D.L.Austin, E.Rutberg, N.Goldstein",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 1408,
+					"writer_name": "Paul McCartney",
+					"short_name": "P.McCartney"
+				},
+				{
+					"billboard_writer_id": 6990,
+					"writer_name": "Dallas L. Austin",
+					"short_name": "D.L.Austin"
+				},
+				{
+					"billboard_writer_id": 10718,
+					"writer_name": "Michael G. Dean",
+					"short_name": "M.G.Dean"
+				},
+				{
+					"billboard_writer_id": 16787,
+					"writer_name": "Kanye Omari West",
+					"short_name": "K.O.West"
+				},
+				{
+					"billboard_writer_id": 25020,
+					"writer_name": "Tyrone \"Ty Dolla $ign\" Griffin Jr",
+					"short_name": "T.Griffin Jr"
+				},
+				{
+					"billboard_writer_id": 27118,
+					"writer_name": "Noah Goldstein",
+					"short_name": "N.Goldstein"
+				},
+				{
+					"billboard_writer_id": 27942,
+					"writer_name": "Elon Rutberg",
+					"short_name": "E.Rutberg"
+				},
+				{
+					"billboard_writer_id": 29259,
+					"writer_name": "Kirby Dockery",
+					"short_name": "K.Dockery"
+				},
+				{
+					"billboard_writer_id": 29999,
+					"writer_name": "Dave Longstreth",
+					"short_name": "D.Longstreth"
+				}],
+			"producer_names": "Kanye Omari West, Paul McCartney, Michael Dean",
+			"short_producer_names": "K.West, P.McCartney, M.Dean",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 293,
+					"producer_name": "Paul McCartney",
+					"short_name": "P.McCartney"
+				},
+				{
+					"billboard_producer_id": 10067,
+					"producer_name": "Michael Dean",
+					"short_name": "M.Dean"
+				},
+				{
+					"billboard_producer_id": 12757,
+					"producer_name": "Kanye Omari West",
+					"short_name": "K.West"
+				}],
+			"billboard_artist_id": 134624,
+			"billboard_title_id": 875779,
+			"rank_lw": 5,
+			"rank_2w": 6,
+			"peak_rank": 4,
+			"peak_date": "02/28/2015",
+			"debut_rank": 54,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 6,
+			"feature_code": "B",
+			"artist_name": "Taylor Swift",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 92219,
+					"artist_name": "Taylor Swift",
+					"credit": 1
+				}],
+			"title": "Style",
+			"imprint": "Big Machine",
+			"label": "Republic",
+			"writer_names": "Taylor Swift, Martin Karl \"Max Martin\" Sandberg, Johan Karl \"Shellback\" Schuster, Ali Payami",
+			"short_writer_names": "T.Swift, Max Martin, Shellback, A.Payami",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 20821,
+					"writer_name": "Taylor Swift",
+					"short_name": "T.Swift"
+				},
+				{
+					"billboard_writer_id": 22678,
+					"writer_name": "Johan Karl \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				},
+				{
+					"billboard_writer_id": 29592,
+					"writer_name": "Ali Payami",
+					"short_name": "A.Payami"
+				}],
+			"producer_names": "Martin Karl \"Max Martin\" Sandberg, Johan \"Shellback\" Schuster",
+			"short_producer_names": "Max Martin, Shellback",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10915,
+					"producer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_producer_id": 16551,
+					"producer_name": "Johan \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"billboard_artist_id": 92219,
+			"billboard_title_id": 866076,
+			"rank_lw": 7,
+			"rank_2w": 8,
+			"peak_rank": 6,
+			"peak_date": "03/21/2015",
+			"debut_rank": 60,
+			"debut_date": "11/15/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 7,
+			"feature_code": "B",
+			"artist_name": "The Weeknd",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 116870,
+					"artist_name": "The Weeknd",
+					"credit": 1
+				}],
+			"title": "Earned It (Fifty Shades Of Grey)",
+			"imprint": "Universal Studios",
+			"label": "Republic",
+			"writer_names": "Abel \"The Weeknd\" Tesfaye, Stephan Richard Moccio, Jason \"DaHeala\" Quenneville, Ahmad Ashad Balshe",
+			"short_writer_names": "A.Tesfaye, S.Moccio, J.Quenneville, A.Balshe",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 16925,
+					"writer_name": "Stephan Richard Moccio",
+					"short_name": "S.Moccio"
+				},
+				{
+					"billboard_writer_id": 21561,
+					"writer_name": "Ahmad Ashad Balshe",
+					"short_name": "A.Balshe"
+				},
+				{
+					"billboard_writer_id": 21562,
+					"writer_name": "Jason \"DaHeala\" Quenneville",
+					"short_name": "J.Quenneville"
+				},
+				{
+					"billboard_writer_id": 26252,
+					"writer_name": "Abel \"The Weeknd\" Tesfaye",
+					"short_name": "A.Tesfaye"
+				}],
+			"producer_names": "Stephan Richard Moccio, Jason \"DaHeala\" Quenneville",
+			"short_producer_names": "S.Moccio, J.Quenneville",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16724,
+					"producer_name": "Stephan Richard Moccio",
+					"short_name": "S.Moccio"
+				},
+				{
+					"billboard_producer_id": 17294,
+					"producer_name": "Jason \"DaHeala\" Quenneville",
+					"short_name": "J.Quenneville"
+				}],
+			"billboard_artist_id": 116870,
+			"billboard_title_id": 873795,
+			"rank_lw": 9,
+			"rank_2w": 9,
+			"peak_rank": 7,
+			"peak_date": "03/21/2015",
+			"debut_rank": 49,
+			"debut_date": "01/10/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 8,
+			"feature_code": " ",
+			"artist_name": "Hozier",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 126814,
+					"artist_name": "Hozier",
+					"credit": 1
+				}],
+			"title": "Take Me To Church",
+			"imprint": "Rubyworks",
+			"label": "Columbia",
+			"writer_names": "Andrew Hozier-Byrne",
+			"short_writer_names": "A.Hozier-Byrne",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29092,
+					"writer_name": "Andrew Hozier-Byrne",
+					"short_name": "A.Hozier-Byrne"
+				}],
+			"producer_names": "Andrew Hozier-Byrne",
+			"short_producer_names": "A.Hozier-Byrne",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18746,
+					"producer_name": "Andrew Hozier-Byrne",
+					"short_name": "A.Hozier-Byrne"
+				}],
+			"billboard_artist_id": 126814,
+			"billboard_title_id": 810203,
+			"rank_lw": 6,
+			"rank_2w": 5,
+			"peak_rank": 2,
+			"peak_date": "12/20/2014",
+			"debut_rank": 96,
+			"debut_date": "08/30/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 9,
+			"feature_code": "B",
+			"artist_name": "Pitbull & Ne-Yo",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83724,
+					"artist_name": "Pitbull",
+					"credit": 0.5
+				},
+				{
+					"billboard_artist_id": 89996,
+					"artist_name": "Ne-Yo",
+					"credit": 0.5
+				}],
+			"title": "Time Of Our Lives",
+			"imprint": "Mr. 305/Polo Grounds",
+			"label": "RCA",
+			"writer_names": "Armando Christian \"Pitbull\" Perez, Lukasz \"Dr. Luke\" Gottwald, Stephan Taft, Henry \"Cirkut\" Russell Walter, Al Burna, Shaffer Chimere \"Ne-Yo\" Smith",
+			"short_writer_names": "A.C.Perez, L.Gottwald, S.Taft, H.R.Walter, A.Burna, S.C.Smith",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5877,
+					"writer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "L.Gottwald"
+				},
+				{
+					"billboard_writer_id": 8092,
+					"writer_name": "Shaffer Chimere \"Ne-Yo\" Smith",
+					"short_name": "S.C.Smith"
+				},
+				{
+					"billboard_writer_id": 16365,
+					"writer_name": "Armando Christian \"Pitbull\" Perez",
+					"short_name": "A.C.Perez"
+				},
+				{
+					"billboard_writer_id": 22924,
+					"writer_name": "Henry \"Cirkut\" Russell Walter",
+					"short_name": "H.R.Walter"
+				},
+				{
+					"billboard_writer_id": 26531,
+					"writer_name": "Stephan Taft",
+					"short_name": "S.Taft"
+				},
+				{
+					"billboard_writer_id": 29782,
+					"writer_name": "Al Burna",
+					"short_name": "A.Burna"
+				}],
+			"producer_names": "Lukasz \"Dr. Luke\" Gottwald, Henry \"Cirkut\" Russell  Walter",
+			"short_producer_names": "Dr. Luke, Cirkut",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14504,
+					"producer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "Dr. Luke"
+				},
+				{
+					"billboard_producer_id": 17330,
+					"producer_name": "Henry \"Cirkut\" Russell  Walter",
+					"short_name": "Cirkut"
+				}],
+			"billboard_artist_id": 133794,
+			"billboard_title_id": 868501,
+			"rank_lw": 10,
+			"rank_2w": 11,
+			"peak_rank": 9,
+			"peak_date": "03/21/2015",
+			"debut_rank": 94,
+			"debut_date": "12/13/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 10,
+			"feature_code": " ",
+			"artist_name": "Taylor Swift",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 92219,
+					"artist_name": "Taylor Swift",
+					"credit": 1
+				}],
+			"title": "Blank Space",
+			"imprint": "Big Machine",
+			"label": "Republic",
+			"writer_names": "Taylor Swift, Martin Karl \"Max Martin\" Sandberg, Johan Karl \"Shellback\" Schuster",
+			"short_writer_names": "T.Swift, Max Martin, Shellback",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 20821,
+					"writer_name": "Taylor Swift",
+					"short_name": "T.Swift"
+				},
+				{
+					"billboard_writer_id": 22678,
+					"writer_name": "Johan Karl \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"producer_names": "Martin Karl \"Max Martin\" Sandberg, Johan \"Shellback\" Schuster",
+			"short_producer_names": "Max Martin, Shellback",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10915,
+					"producer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_producer_id": 16551,
+					"producer_name": "Johan \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"billboard_artist_id": 92219,
+			"billboard_title_id": 866075,
+			"rank_lw": 8,
+			"rank_2w": 7,
+			"peak_rank": 1,
+			"peak_date": "11/29/2014",
+			"debut_rank": 18,
+			"debut_date": "11/15/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 11,
+			"feature_code": " ",
+			"artist_name": "Usher Featuring Juicy J",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 20609,
+					"artist_name": "Usher",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 83511,
+					"artist_name": "Juicy J",
+					"credit": 0.3
+				}],
+			"title": "I Don't Mind",
+			"imprint": "RCA",
+			"label": "",
+			"writer_names": "Jordan \"Juicy J\" Houston, Lukasz \"Dr. Luke\" Gottwald, Jacob \"Jahmal House/J Kash\" Kasher Hindlin, Theron Thomas, Timothy Thomas, Henry \"Cirkut\" Russell Walter",
+			"short_writer_names": "J.Houston, L.Gottwald, Jahmal House, T.Thomas, T.Thomas, H.R.Walter",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5877,
+					"writer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "L.Gottwald"
+				},
+				{
+					"billboard_writer_id": 15508,
+					"writer_name": "Jordan \"Juicy J\" Houston",
+					"short_name": "J.Houston"
+				},
+				{
+					"billboard_writer_id": 22924,
+					"writer_name": "Henry \"Cirkut\" Russell Walter",
+					"short_name": "H.R.Walter"
+				},
+				{
+					"billboard_writer_id": 23070,
+					"writer_name": "Jacob \"Jahmal House/J Kash\" Kasher Hindlin",
+					"short_name": "Jahmal House"
+				},
+				{
+					"billboard_writer_id": 25433,
+					"writer_name": "Theron Thomas",
+					"short_name": "T.Thomas"
+				},
+				{
+					"billboard_writer_id": 25434,
+					"writer_name": "Timothy Thomas",
+					"short_name": "T.Thomas"
+				}],
+			"producer_names": "Lukasz \"Dr. Luke\" Gottwald, Henry \"Cirkut\" Russell  Walter",
+			"short_producer_names": "Dr. Luke, Cirkut",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14504,
+					"producer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "Dr. Luke"
+				},
+				{
+					"billboard_producer_id": 17330,
+					"producer_name": "Henry \"Cirkut\" Russell  Walter",
+					"short_name": "Cirkut"
+				}],
+			"billboard_artist_id": 133451,
+			"billboard_title_id": 854786,
+			"rank_lw": 12,
+			"rank_2w": 13,
+			"peak_rank": 11,
+			"peak_date": "03/21/2015",
+			"debut_rank": 95,
+			"debut_date": "12/06/2014",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 12,
+			"feature_code": "B",
+			"artist_name": "Fetty Wap",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 134152,
+					"artist_name": "Fetty Wap",
+					"credit": 1
+				}],
+			"title": "Trap Queen",
+			"imprint": "RGF",
+			"label": "300",
+			"writer_names": "Willie J. Maxwell, Tony Fadd",
+			"short_writer_names": "W.J.Maxwell, T.Fadd",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29915,
+					"writer_name": "Willie J. Maxwell",
+					"short_name": "W.J.Maxwell"
+				},
+				{
+					"billboard_writer_id": 29916,
+					"writer_name": "Tony Fadd",
+					"short_name": "T.Fadd"
+				}],
+			"producer_names": "Tony Fadd",
+			"short_producer_names": "T.Fadd",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 19157,
+					"producer_name": "Tony Fadd",
+					"short_name": "T.Fadd"
+				}],
+			"billboard_artist_id": 134152,
+			"billboard_title_id": 868296,
+			"rank_lw": 16,
+			"rank_2w": 35,
+			"peak_rank": 12,
+			"peak_date": "03/21/2015",
+			"debut_rank": 86,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 13,
+			"feature_code": " ",
+			"artist_name": "Meghan Trainor",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 131562,
+					"artist_name": "Meghan Trainor",
+					"credit": 1
+				}],
+			"title": "Lips Are Movin",
+			"imprint": "Epic",
+			"label": "",
+			"writer_names": "Meghan Trainor, Kevin Kadish",
+			"short_writer_names": "M.Trainor, K.Kadish",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 18606,
+					"writer_name": "Kevin Kadish",
+					"short_name": "K.Kadish"
+				},
+				{
+					"billboard_writer_id": 29293,
+					"writer_name": "Meghan Trainor",
+					"short_name": "M.Trainor"
+				}],
+			"producer_names": "Kevin Kadish",
+			"short_producer_names": "K.Kadish",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14567,
+					"producer_name": "Kevin Kadish",
+					"short_name": "K.Kadish"
+				}],
+			"billboard_artist_id": 131562,
+			"billboard_title_id": 863510,
+			"rank_lw": 11,
+			"rank_2w": 10,
+			"peak_rank": 4,
+			"peak_date": "12/27/2014",
+			"debut_rank": 93,
+			"debut_date": "11/08/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 14,
+			"feature_code": "B",
+			"artist_name": "Nicki Minaj Featuring Drake & Lil Wayne",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 27681,
+					"artist_name": "Lil Wayne",
+					"credit": 0.15
+				},
+				{
+					"billboard_artist_id": 87648,
+					"artist_name": "Nicki Minaj",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 0.15
+				}],
+			"title": "Truffle Butter",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Onika Tanya \"Nicki Minaj\" Maraj, Aubrey \"Drake\" Graham, Dwayne \"Lil Wayne\" Carter, Paul Jefferies, Maya Jane Coles",
+			"short_writer_names": "O.T.Maraj, A.Graham, D.Carter, P.Jefferies, M.J.Coles",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19614,
+					"writer_name": "Dwayne \"Lil Wayne\" Carter",
+					"short_name": "D.Carter"
+				},
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				},
+				{
+					"billboard_writer_id": 23551,
+					"writer_name": "Onika Tanya \"Nicki Minaj\" Maraj",
+					"short_name": "O.T.Maraj"
+				},
+				{
+					"billboard_writer_id": 29741,
+					"writer_name": "Paul Jefferies",
+					"short_name": "P.Jefferies"
+				},
+				{
+					"billboard_writer_id": 29903,
+					"writer_name": "Maya Jane Coles",
+					"short_name": "M.J.Coles"
+				}],
+			"producer_names": "Paul \"Nineteen85\" Jeffries, Maya Jane Coles",
+			"short_producer_names": "Nineteen85, M.J.Coles",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18259,
+					"producer_name": "Paul \"Nineteen85\" Jeffries",
+					"short_name": "Nineteen85"
+				},
+				{
+					"billboard_producer_id": 19151,
+					"producer_name": "Maya Jane Coles",
+					"short_name": "M.J.Coles"
+				}],
+			"billboard_artist_id": 134224,
+			"billboard_title_id": 872648,
+			"rank_lw": 14,
+			"rank_2w": 17,
+			"peak_rank": 14,
+			"peak_date": "03/14/2015",
+			"debut_rank": 71,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 15,
+			"feature_code": "O",
+			"artist_name": "Kanye West Featuring Theophilus London, Allan Kingdom & Paul McCartney",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 1153,
+					"artist_name": "Paul McCartney",
+					"credit": 0.1
+				},
+				{
+					"billboard_artist_id": 84655,
+					"artist_name": "Kanye West",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 112531,
+					"artist_name": "Theophilus London",
+					"credit": 0.1
+				},
+				{
+					"billboard_artist_id": 135225,
+					"artist_name": "Allan Kingdom",
+					"credit": 0.1
+				}],
+			"title": "All Day",
+			"imprint": "G.O.O.D./Roc-A-Fella",
+			"label": "Def Jam",
+			"writer_names": "Not Listed",
+			"short_writer_names": "Not Listed",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 633,
+					"writer_name": "Not Listed",
+					"short_name": "Not Listed"
+				}],
+			"producer_names": "Not Listed",
+			"short_producer_names": "Not Listed",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 5584,
+					"producer_name": "Not Listed",
+					"short_name": "Not Listed"
+				}],
+			"billboard_artist_id": 135224,
+			"billboard_title_id": 880467,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 15,
+			"peak_date": "03/21/2015",
+			"debut_rank": 15,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 16,
+			"feature_code": "B",
+			"artist_name": "Flo Rida Featuring Sage The Gemini & Lookas",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 94636,
+					"artist_name": "Flo Rida",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 124778,
+					"artist_name": "Sage The Gemini",
+					"credit": 0.15
+				},
+				{
+					"billboard_artist_id": 131926,
+					"artist_name": "Lookas",
+					"credit": 0.15
+				}],
+			"title": "G.D.F.R.",
+			"imprint": "Poe Boy",
+			"label": "Atlantic",
+			"writer_names": "Tramar \"Flo Rida\" Dillard, Justin Franks, Andrew Cedar, Dominic Wynn \"Sage The Gemini\" Woods, Paulo Rodrigeuz, Michael Caren, Charles W. Miller, Gerald Goldstein, Harold Brown, Howard E. Scott, Lee Oskar, LeRoy L. Jordan, Morris Dickerson, Sylvester Allen",
+			"short_writer_names": "T.Dillard, J.Franks, A.Cedar, D.W.Woods, P.Rodriguez, M.Caren, C.W.Miller, G.Goldstein, H.Brown, H.E.Scott, L.Oskar, L.L.Jordan, M.Dickerson, S.Allen",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 2956,
+					"writer_name": "LeRoy L. Jordan",
+					"short_name": "L.L.Jordan"
+				},
+				{
+					"billboard_writer_id": 10469,
+					"writer_name": "Howard E. Scott",
+					"short_name": "H.E.Scott"
+				},
+				{
+					"billboard_writer_id": 18415,
+					"writer_name": "Michael Caren",
+					"short_name": "M.Caren"
+				},
+				{
+					"billboard_writer_id": 21837,
+					"writer_name": "Tramar \"Flo Rida\" Dillard",
+					"short_name": "T.Dillard"
+				},
+				{
+					"billboard_writer_id": 22543,
+					"writer_name": "Justin Franks",
+					"short_name": "J.Franks"
+				},
+				{
+					"billboard_writer_id": 27815,
+					"writer_name": "Dominic Wynn \"Sage The Gemini\" Woods",
+					"short_name": "D.W.Woods"
+				},
+				{
+					"billboard_writer_id": 28311,
+					"writer_name": "Lee Oskar",
+					"short_name": "L.Oskar"
+				},
+				{
+					"billboard_writer_id": 28341,
+					"writer_name": "Andrew Cedar",
+					"short_name": "A.Cedar"
+				},
+				{
+					"billboard_writer_id": 29617,
+					"writer_name": "Paulo Rodrigeuz",
+					"short_name": "P.Rodriguez"
+				},
+				{
+					"billboard_writer_id": 29618,
+					"writer_name": "Charles W. Miller",
+					"short_name": "C.W.Miller"
+				},
+				{
+					"billboard_writer_id": 29619,
+					"writer_name": "Gerald Goldstein",
+					"short_name": "G.Goldstein"
+				},
+				{
+					"billboard_writer_id": 29620,
+					"writer_name": "Harold Brown",
+					"short_name": "H.Brown"
+				},
+				{
+					"billboard_writer_id": 29621,
+					"writer_name": "Morris Dickerson",
+					"short_name": "M.Dickerson"
+				},
+				{
+					"billboard_writer_id": 29622,
+					"writer_name": "Sylvester Allen",
+					"short_name": "S.Allen"
+				}],
+			"producer_names": "Justin \"DJ Frank E\" Franks, Andrew Cedar, Miles Beard",
+			"short_producer_names": "DJ Frank E, A.Cedar, M.Beard",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15963,
+					"producer_name": "Justin \"DJ Frank E\" Franks",
+					"short_name": "DJ Frank E"
+				},
+				{
+					"billboard_producer_id": 19003,
+					"producer_name": "Andrew Cedar",
+					"short_name": "A.Cedar"
+				},
+				{
+					"billboard_producer_id": 19004,
+					"producer_name": "Miles Beard",
+					"short_name": "M.Beard"
+				}],
+			"billboard_artist_id": 133348,
+			"billboard_title_id": 857332,
+			"rank_lw": 23,
+			"rank_2w": 29,
+			"peak_rank": 16,
+			"peak_date": "03/21/2015",
+			"debut_rank": 84,
+			"debut_date": "11/08/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 17,
+			"feature_code": " ",
+			"artist_name": "Sam Smith",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 121940,
+					"artist_name": "Sam Smith",
+					"credit": 1
+				}],
+			"title": "I'm Not The Only One",
+			"imprint": "Capitol",
+			"label": "",
+			"writer_names": "James Napier, Sam Smith",
+			"short_writer_names": "J.Napier, S.Smith",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 27929,
+					"writer_name": "Sam Smith",
+					"short_name": "S.Smith"
+				},
+				{
+					"billboard_writer_id": 27930,
+					"writer_name": "James Napier",
+					"short_name": "J.Napier"
+				}],
+			"producer_names": "Jimmy Napes, Steve Fitzmaurice",
+			"short_producer_names": "J.Napes, S.Fitzmaurice",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18691,
+					"producer_name": "Jimmy Napes",
+					"short_name": "J.Napes"
+				},
+				{
+					"billboard_producer_id": 18747,
+					"producer_name": "Steve Fitzmaurice",
+					"short_name": "S.Fitzmaurice"
+				}],
+			"billboard_artist_id": 121940,
+			"billboard_title_id": 848240,
+			"rank_lw": 13,
+			"rank_2w": 12,
+			"peak_rank": 5,
+			"peak_date": "12/27/2014",
+			"debut_rank": 69,
+			"debut_date": "06/21/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 18,
+			"feature_code": " ",
+			"artist_name": "Fall Out Boy",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 86674,
+					"artist_name": "Fall Out Boy",
+					"credit": 1
+				}],
+			"title": "Centuries",
+			"imprint": "DCD2/Island",
+			"label": "Republic",
+			"writer_names": "Jonathan \"J.R.\" Rotem, Patrick Vaughn Stump, Peter Wentz, Joseph Trohman, Aurley Hurley, Michael J. Fonseca, Raja Kumari, Justin Trantner, Suzanne Vega",
+			"short_writer_names": "J.R.Rotem, P.V.Stump, P.Wentz, J.Trohman, A.Hurley, M.J.Fonseca, R.Kumari, J.Trantner, S.Vega",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 4171,
+					"writer_name": "Suzanne Vega",
+					"short_name": "S.Vega"
+				},
+				{
+					"billboard_writer_id": 20055,
+					"writer_name": "Peter Wentz",
+					"short_name": "P.Wentz"
+				},
+				{
+					"billboard_writer_id": 20295,
+					"writer_name": "Patrick Vaughn Stump",
+					"short_name": "P.V.Stump"
+				},
+				{
+					"billboard_writer_id": 20378,
+					"writer_name": "Jonathan \"J.R.\" Rotem",
+					"short_name": "J.R.Rotem"
+				},
+				{
+					"billboard_writer_id": 27923,
+					"writer_name": "Justin Trantner",
+					"short_name": "J.Trantner"
+				},
+				{
+					"billboard_writer_id": 29012,
+					"writer_name": "Raja Kumari",
+					"short_name": "R.Kumari"
+				},
+				{
+					"billboard_writer_id": 29546,
+					"writer_name": "Michael J. Fonseca",
+					"short_name": "M.J.Fonseca"
+				},
+				{
+					"billboard_writer_id": 29549,
+					"writer_name": "Joseph Trohman",
+					"short_name": "J.Trohman"
+				},
+				{
+					"billboard_writer_id": 29550,
+					"writer_name": "Aurley Hurley",
+					"short_name": "A.Hurley"
+				}],
+			"producer_names": "Jonathan \"J.R.\" Rotem, Omega",
+			"short_producer_names": "J.R.Rotem, Omega",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14818,
+					"producer_name": "Jonathan \"J.R.\" Rotem",
+					"short_name": "J.R.Rotem"
+				},
+				{
+					"billboard_producer_id": 18964,
+					"producer_name": "Omega",
+					"short_name": "Omega"
+				}],
+			"billboard_artist_id": 86674,
+			"billboard_title_id": 859390,
+			"rank_lw": 15,
+			"rank_2w": 14,
+			"peak_rank": 10,
+			"peak_date": "02/07/2015",
+			"debut_rank": 22,
+			"debut_date": "09/27/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 19,
+			"feature_code": "B",
+			"artist_name": "Natalie La Rose Featuring Jeremih",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 103662,
+					"artist_name": "Jeremih",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 134217,
+					"artist_name": "Natalie La Rose",
+					"credit": 0.7
+				}],
+			"title": "Somebody",
+			"imprint": "I.M.G.",
+			"label": "Republic",
+			"writer_names": "William Lobban-Bean, Alex Schwartz, Joe Khajadourian, George Merrill, Shannon Rubicam",
+			"short_writer_names": "W.Lobban-Bean, A.Schwartz, J.Khajadourian, G.Merrill, S.Rubicam",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3256,
+					"writer_name": "George Merrill",
+					"short_name": "G.Merrill"
+				},
+				{
+					"billboard_writer_id": 3257,
+					"writer_name": "Shannon Rubicam",
+					"short_name": "S.Rubicam"
+				},
+				{
+					"billboard_writer_id": 26264,
+					"writer_name": "William Lobban-Bean",
+					"short_name": "W.Lobban-Bean"
+				},
+				{
+					"billboard_writer_id": 26945,
+					"writer_name": "Alex Schwartz",
+					"short_name": "A.Schwartz"
+				},
+				{
+					"billboard_writer_id": 26946,
+					"writer_name": "Joe Khajadourian",
+					"short_name": "J.Khajadourian"
+				}],
+			"producer_names": "Cook Classics, The Futuristics",
+			"short_producer_names": "Cook Classics, The Futuristics",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17422,
+					"producer_name": "Cook Classics",
+					"short_name": "Cook Classics"
+				},
+				{
+					"billboard_producer_id": 17850,
+					"producer_name": "The Futuristics",
+					"short_name": "The Futuristics"
+				}],
+			"billboard_artist_id": 134216,
+			"billboard_title_id": 871357,
+			"rank_lw": 24,
+			"rank_2w": 27,
+			"peak_rank": 19,
+			"peak_date": "03/21/2015",
+			"debut_rank": 94,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 20,
+			"feature_code": " ",
+			"artist_name": "Ne-Yo Featuring Juicy J",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83511,
+					"artist_name": "Juicy J",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 89996,
+					"artist_name": "Ne-Yo",
+					"credit": 0.7
+				}],
+			"title": "She Knows",
+			"imprint": "Compound Entertainment/Motown",
+			"label": "Capitol",
+			"writer_names": "Shaffer Chimere \"Ne-Yo\" Smith, Jordan \"Juicy J\" Houston, Lukasz \"Dr. Luke\" Gottwald, Henry \"Cirkut\" Russell Walter",
+			"short_writer_names": "S.C.Smith, J.Houston, L.Gottwald, H.R.Walter",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5877,
+					"writer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "L.Gottwald"
+				},
+				{
+					"billboard_writer_id": 8092,
+					"writer_name": "Shaffer Chimere \"Ne-Yo\" Smith",
+					"short_name": "S.C.Smith"
+				},
+				{
+					"billboard_writer_id": 15508,
+					"writer_name": "Jordan \"Juicy J\" Houston",
+					"short_name": "J.Houston"
+				},
+				{
+					"billboard_writer_id": 22924,
+					"writer_name": "Henry \"Cirkut\" Russell Walter",
+					"short_name": "H.R.Walter"
+				}],
+			"producer_names": "Lukasz \"Dr. Luke\" Gottwald, Henry \"Cirkut\" Russell  Walter",
+			"short_producer_names": "Dr. Luke, Cirkut",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14504,
+					"producer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "Dr. Luke"
+				},
+				{
+					"billboard_producer_id": 17330,
+					"producer_name": "Henry \"Cirkut\" Russell  Walter",
+					"short_name": "Cirkut"
+				}],
+			"billboard_artist_id": 132670,
+			"billboard_title_id": 859589,
+			"rank_lw": 19,
+			"rank_2w": 22,
+			"peak_rank": 19,
+			"peak_date": "03/14/2015",
+			"debut_rank": 100,
+			"debut_date": "11/29/2014",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 21,
+			"feature_code": "B",
+			"artist_name": "Kelly Clarkson",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83796,
+					"artist_name": "Kelly Clarkson",
+					"credit": 1
+				}],
+			"title": "Heartbeat Song",
+			"imprint": "19",
+			"label": "RCA",
+			"writer_names": "Kara DioGuardi, Jason Evigan, Audra Mae, Mitch Allan",
+			"short_writer_names": "K.DioGuardi, J.Evigan, A.Mae, M.Allan",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 17220,
+					"writer_name": "Mitch Allan",
+					"short_name": "M.Allan"
+				},
+				{
+					"billboard_writer_id": 17961,
+					"writer_name": "Kara DioGuardi",
+					"short_name": "K.DioGuardi"
+				},
+				{
+					"billboard_writer_id": 27568,
+					"writer_name": "Jason Evigan",
+					"short_name": "J.Evigan"
+				},
+				{
+					"billboard_writer_id": 29390,
+					"writer_name": "Audra Mae",
+					"short_name": "A.Mae"
+				}],
+			"producer_names": "Greg Kurstin",
+			"short_producer_names": "G.Kurstin",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15697,
+					"producer_name": "Greg Kurstin",
+					"short_name": "G.Kurstin"
+				}],
+			"billboard_artist_id": 83796,
+			"billboard_title_id": 874807,
+			"rank_lw": 37,
+			"rank_2w": 46,
+			"peak_rank": 21,
+			"peak_date": "03/21/2015",
+			"debut_rank": 37,
+			"debut_date": "01/31/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 22,
+			"feature_code": "B",
+			"artist_name": "Ariana Grande",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 112556,
+					"artist_name": "Ariana Grande",
+					"credit": 1
+				}],
+			"title": "One Last Time",
+			"imprint": "Republic",
+			"label": "",
+			"writer_names": "David Guetta, Savan Kotecha, Giorgio H. Tuinfort, Rami Yacoub, Carl Falk",
+			"short_writer_names": "D.Guetta, S.Kotecha, G.H.Tuinfort, R.Yacoub, C.Falk",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 16836,
+					"writer_name": "Rami Yacoub",
+					"short_name": "R.Yacoub"
+				},
+				{
+					"billboard_writer_id": 20066,
+					"writer_name": "Savan Kotecha",
+					"short_name": "S.Kotecha"
+				},
+				{
+					"billboard_writer_id": 21215,
+					"writer_name": "Giorgio H. Tuinfort",
+					"short_name": "G.H.Tuinfort"
+				},
+				{
+					"billboard_writer_id": 21839,
+					"writer_name": "David Guetta",
+					"short_name": "D.Guetta"
+				},
+				{
+					"billboard_writer_id": 26409,
+					"writer_name": "Carl Falk",
+					"short_name": "C.Falk"
+				}],
+			"producer_names": "Carl Falk, Ilya Salmanzadeh, Giorgio H. Tuinfort",
+			"short_producer_names": "C.Falk, Ilya, G.H.Tuinfort",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15240,
+					"producer_name": "Giorgio H. Tuinfort",
+					"short_name": "G.H.Tuinfort"
+				},
+				{
+					"billboard_producer_id": 17321,
+					"producer_name": "Carl Falk",
+					"short_name": "C.Falk"
+				},
+				{
+					"billboard_producer_id": 18721,
+					"producer_name": "Ilya Salmanzadeh",
+					"short_name": "Ilya"
+				}],
+			"billboard_artist_id": 112556,
+			"billboard_title_id": 858411,
+			"rank_lw": 30,
+			"rank_2w": 34,
+			"peak_rank": 22,
+			"peak_date": "03/21/2015",
+			"debut_rank": 80,
+			"debut_date": "02/28/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 23,
+			"feature_code": " ",
+			"artist_name": "Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 27681,
+					"artist_name": "Lil Wayne",
+					"credit": 0.1
+				},
+				{
+					"billboard_artist_id": 87648,
+					"artist_name": "Nicki Minaj",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 89758,
+					"artist_name": "Chris Brown",
+					"credit": 0.1
+				},
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 0.1
+				}],
+			"title": "Only",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Onika Tanya \"Nicki Minaj\" Maraj, Aubrey \"Drake\" Graham, Dwayne \"Lil Wayne\" Carter, Jeremy Michael \"JMIKE\" Coleman, Lukasz \"Dr. Luke\" Gottwald, Theron Thomas, Timothy Thomas, Henry \"Cirkut\" Russell Walter",
+			"short_writer_names": "O.T.Maraj, A.Graham, D.Carter, J.M.Coleman, L.Gottwald, T.Thomas, T.Thomas, H.R.Walter",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5877,
+					"writer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "L.Gottwald"
+				},
+				{
+					"billboard_writer_id": 19614,
+					"writer_name": "Dwayne \"Lil Wayne\" Carter",
+					"short_name": "D.Carter"
+				},
+				{
+					"billboard_writer_id": 22924,
+					"writer_name": "Henry \"Cirkut\" Russell Walter",
+					"short_name": "H.R.Walter"
+				},
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				},
+				{
+					"billboard_writer_id": 23551,
+					"writer_name": "Onika Tanya \"Nicki Minaj\" Maraj",
+					"short_name": "O.T.Maraj"
+				},
+				{
+					"billboard_writer_id": 25433,
+					"writer_name": "Theron Thomas",
+					"short_name": "T.Thomas"
+				},
+				{
+					"billboard_writer_id": 25434,
+					"writer_name": "Timothy Thomas",
+					"short_name": "T.Thomas"
+				},
+				{
+					"billboard_writer_id": 26947,
+					"writer_name": "Jeremy Michael \"JMIKE\" Coleman",
+					"short_name": "J.M.Coleman"
+				}],
+			"producer_names": "Lukasz \"Dr. Luke\" Gottwald, Henry \"Cirkut\" Russell  Walter, Jeremy Michael \"JMIKE\" Coleman",
+			"short_producer_names": "Dr. Luke, Cirkut, JMIKE",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14504,
+					"producer_name": "Lukasz \"Dr. Luke\" Gottwald",
+					"short_name": "Dr. Luke"
+				},
+				{
+					"billboard_producer_id": 16743,
+					"producer_name": "Jeremy Michael \"JMIKE\" Coleman",
+					"short_name": "JMIKE"
+				},
+				{
+					"billboard_producer_id": 17330,
+					"producer_name": "Henry \"Cirkut\" Russell  Walter",
+					"short_name": "Cirkut"
+				}],
+			"billboard_artist_id": 133452,
+			"billboard_title_id": 866259,
+			"rank_lw": 18,
+			"rank_2w": 16,
+			"peak_rank": 12,
+			"peak_date": "12/27/2014",
+			"debut_rank": 54,
+			"debut_date": "11/15/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 24,
+			"feature_code": " ",
+			"artist_name": "Taylor Swift",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 92219,
+					"artist_name": "Taylor Swift",
+					"credit": 1
+				}],
+			"title": "Shake It Off",
+			"imprint": "Big Machine",
+			"label": "Republic",
+			"writer_names": "Taylor Swift, Martin Karl \"Max Martin\" Sandberg, Johan Karl \"Shellback\" Schuster",
+			"short_writer_names": "T.Swift, Max Martin, Shellback",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 20821,
+					"writer_name": "Taylor Swift",
+					"short_name": "T.Swift"
+				},
+				{
+					"billboard_writer_id": 22678,
+					"writer_name": "Johan Karl \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"producer_names": "Martin Karl \"Max Martin\" Sandberg, Johan \"Shellback\" Schuster",
+			"short_producer_names": "Max Martin, Shellback",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10915,
+					"producer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_producer_id": 16551,
+					"producer_name": "Johan \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"billboard_artist_id": 92219,
+			"billboard_title_id": 856892,
+			"rank_lw": 21,
+			"rank_2w": 15,
+			"peak_rank": 1,
+			"peak_date": "09/06/2014",
+			"debut_rank": 1,
+			"debut_date": "09/06/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 25,
+			"feature_code": "B",
+			"artist_name": "Nick Jonas",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 110232,
+					"artist_name": "Nick Jonas",
+					"credit": 1
+				}],
+			"title": "Chains",
+			"imprint": "Safehouse/Island",
+			"label": "Republic",
+			"writer_names": "Jason Evigan, Ammar Malik, Daniel Parker, Darold \"A$AP Ferg\" Brown Ferguson, Jr.",
+			"short_writer_names": "J.Evigan, A.Malik, D.Parker, D.Ferguson, Jr",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25870,
+					"writer_name": "Ammar Malik",
+					"short_name": "A.Malik"
+				},
+				{
+					"billboard_writer_id": 27568,
+					"writer_name": "Jason Evigan",
+					"short_name": "J.Evigan"
+				},
+				{
+					"billboard_writer_id": 27809,
+					"writer_name": "Darold \"A$AP Ferg\" Brown Ferguson, Jr.",
+					"short_name": "D.Ferguson, Jr"
+				},
+				{
+					"billboard_writer_id": 30035,
+					"writer_name": "Daniel Parker",
+					"short_name": "D.Parker"
+				}],
+			"producer_names": "Jason Evigan",
+			"short_producer_names": "J.Evigan",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18035,
+					"producer_name": "Jason Evigan",
+					"short_name": "J.Evigan"
+				}],
+			"billboard_artist_id": 110232,
+			"billboard_title_id": 855040,
+			"rank_lw": 34,
+			"rank_2w": 42,
+			"peak_rank": 25,
+			"peak_date": "03/21/2015",
+			"debut_rank": 92,
+			"debut_date": "02/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 26,
+			"feature_code": " ",
+			"artist_name": "Meghan Trainor",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 131562,
+					"artist_name": "Meghan Trainor",
+					"credit": 1
+				}],
+			"title": "All About That Bass",
+			"imprint": "Epic",
+			"label": "",
+			"writer_names": "Meghan Trainor, Kevin Kadish",
+			"short_writer_names": "M.Trainor, K.Kadish",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 18606,
+					"writer_name": "Kevin Kadish",
+					"short_name": "K.Kadish"
+				},
+				{
+					"billboard_writer_id": 29293,
+					"writer_name": "Meghan Trainor",
+					"short_name": "M.Trainor"
+				}],
+			"producer_names": "Kevin Kadish",
+			"short_producer_names": "K.Kadish",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14567,
+					"producer_name": "Kevin Kadish",
+					"short_name": "K.Kadish"
+				}],
+			"billboard_artist_id": 131562,
+			"billboard_title_id": 848775,
+			"rank_lw": 28,
+			"rank_2w": 19,
+			"peak_rank": 1,
+			"peak_date": "09/20/2014",
+			"debut_rank": 84,
+			"debut_date": "07/26/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 27,
+			"feature_code": " ",
+			"artist_name": "Chris Brown & Tyga",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 89758,
+					"artist_name": "Chris Brown",
+					"credit": 0.5
+				},
+				{
+					"billboard_artist_id": 97751,
+					"artist_name": "Tyga",
+					"credit": 0.5
+				}],
+			"title": "Ayo",
+			"imprint": "RCA",
+			"label": "",
+			"writer_names": "Christopher Maurice Brown, Michael \"Tyga\" Ray Nguyen-Stevenson, Nicolas \"Nic Nac\" Balding, Mark Lanthier Kragen, Jess Jackson",
+			"short_writer_names": "C.M.Brown, M.R.Nguyen-Stevenson, N.Balding, M.L.Kragen, J.Jackson",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 18532,
+					"writer_name": "Christopher Maurice Brown",
+					"short_name": "C.M.Brown"
+				},
+				{
+					"billboard_writer_id": 23785,
+					"writer_name": "Michael \"Tyga\" Ray Nguyen-Stevenson",
+					"short_name": "M.R.Nguyen-Stevenson"
+				},
+				{
+					"billboard_writer_id": 24783,
+					"writer_name": "Nicolas \"Nic Nac\" Balding",
+					"short_name": "N.Balding"
+				},
+				{
+					"billboard_writer_id": 25892,
+					"writer_name": "Jess Jackson",
+					"short_name": "J.Jackson"
+				},
+				{
+					"billboard_writer_id": 28647,
+					"writer_name": "Mark Lanthier Kragen",
+					"short_name": "M.L.Kragen"
+				}],
+			"producer_names": "Nicolas \"Nic Nac\" Balding, Mark Lanthier Kragen",
+			"short_producer_names": "Nic Nac, M.L.Kragen",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16860,
+					"producer_name": "Nicolas \"Nic Nac\" Balding",
+					"short_name": "Nic Nac"
+				},
+				{
+					"billboard_producer_id": 19096,
+					"producer_name": "Mark Lanthier Kragen",
+					"short_name": "M.L.Kragen"
+				}],
+			"billboard_artist_id": 134264,
+			"billboard_title_id": 873016,
+			"rank_lw": 25,
+			"rank_2w": 32,
+			"peak_rank": 25,
+			"peak_date": "03/14/2015",
+			"debut_rank": 40,
+			"debut_date": "01/24/2015",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 28,
+			"feature_code": " ",
+			"artist_name": "Nick Jonas",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 110232,
+					"artist_name": "Nick Jonas",
+					"credit": 1
+				}],
+			"title": "Jealous",
+			"imprint": "Safehouse/Island",
+			"label": "Republic",
+			"writer_names": "Nicholas Jonas, Nolan Lambroza, Simon Wilcox",
+			"short_writer_names": "N.Jonas, N.Lambroza, S.Wilcox",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19656,
+					"writer_name": "Nicholas Jonas",
+					"short_name": "N.Jonas"
+				},
+				{
+					"billboard_writer_id": 19728,
+					"writer_name": "Simon Wilcox",
+					"short_name": "S.Wilcox"
+				},
+				{
+					"billboard_writer_id": 26698,
+					"writer_name": "Nolan Lambroza",
+					"short_name": "N.Lambroza"
+				}],
+			"producer_names": "Nolan \"Sir Nolan\" Lambrozza",
+			"short_producer_names": "Sir Nolan",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17619,
+					"producer_name": "Nolan \"Sir Nolan\" Lambrozza",
+					"short_name": "Sir Nolan"
+				}],
+			"billboard_artist_id": 110232,
+			"billboard_title_id": 859395,
+			"rank_lw": 20,
+			"rank_2w": 18,
+			"peak_rank": 7,
+			"peak_date": "01/24/2015",
+			"debut_rank": 78,
+			"debut_date": "09/27/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 29,
+			"feature_code": " ",
+			"artist_name": "Big Sean Featuring E-40",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 19781,
+					"artist_name": "E-40",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 111920,
+					"artist_name": "Big Sean",
+					"credit": 0.7
+				}],
+			"title": "I Don't F**k With You",
+			"imprint": "G.O.O.D.",
+			"label": "Def Jam",
+			"writer_names": "Sean Michael \"Big Sean\" Anderson, Dijon \"DJ Mustard\" McFarlane, Kanye Omari West, Mikely \"Mike Free\" Adam, Dacoury Natche, Dwane M. \"Key Wane\" Weir II, Willie Hansbro, Earl T. \"E-40\" Stevens, Dewayne Julius Rogers Sr.",
+			"short_writer_names": "S.M.Anderson, D.McFarlane, K.O.West, M.Adam, D.Natche, D.M.Weir II, W.Hansbro, E.T.Stevens, D.J.Rogers Sr.",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 573,
+					"writer_name": "Earl T. \"E-40\" Stevens",
+					"short_name": "E.T.Stevens"
+				},
+				{
+					"billboard_writer_id": 16429,
+					"writer_name": "Dewayne Julius Rogers Sr.",
+					"short_name": "D.J.Rogers Sr."
+				},
+				{
+					"billboard_writer_id": 16787,
+					"writer_name": "Kanye Omari West",
+					"short_name": "K.O.West"
+				},
+				{
+					"billboard_writer_id": 25873,
+					"writer_name": "Sean Michael \"Big Sean\" Anderson",
+					"short_name": "S.M.Anderson"
+				},
+				{
+					"billboard_writer_id": 26388,
+					"writer_name": "Dijon \"DJ Mustard\" McFarlane",
+					"short_name": "D.McFarlane"
+				},
+				{
+					"billboard_writer_id": 26726,
+					"writer_name": "Dwane M. \"Key Wane\" Weir II",
+					"short_name": "D.M.Weir II"
+				},
+				{
+					"billboard_writer_id": 27136,
+					"writer_name": "Dacoury Natche",
+					"short_name": "D.Natche"
+				},
+				{
+					"billboard_writer_id": 27830,
+					"writer_name": "Mikely \"Mike Free\" Adam",
+					"short_name": "M.Adam"
+				},
+				{
+					"billboard_writer_id": 29545,
+					"writer_name": "Willie Hansbro",
+					"short_name": "W.Hansbro"
+				}],
+			"producer_names": "Dijon \"DJ Mustard\" McFarlane, Kanye Omari West, Mikely \"Mike Free\" Adam, DJ DaHi",
+			"short_producer_names": "DJ Mustard, K.West, M.Adam, DJ DaHi",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12757,
+					"producer_name": "Kanye Omari West",
+					"short_name": "K.West"
+				},
+				{
+					"billboard_producer_id": 17410,
+					"producer_name": "Dijon \"DJ Mustard\" McFarlane",
+					"short_name": "DJ Mustard"
+				},
+				{
+					"billboard_producer_id": 17824,
+					"producer_name": "DJ DaHi",
+					"short_name": "DJ DaHi"
+				},
+				{
+					"billboard_producer_id": 18291,
+					"producer_name": "Mikely \"Mike Free\" Adam",
+					"short_name": "M.Adam"
+				}],
+			"billboard_artist_id": 132731,
+			"billboard_title_id": 859814,
+			"rank_lw": 22,
+			"rank_2w": 24,
+			"peak_rank": 11,
+			"peak_date": "12/06/2014",
+			"debut_rank": 70,
+			"debut_date": "10/11/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 30,
+			"feature_code": "S",
+			"artist_name": "Big Sean Featuring Drake",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 111920,
+					"artist_name": "Big Sean",
+					"credit": 0.7
+				}],
+			"title": "Blessings",
+			"imprint": "G.O.O.D.",
+			"label": "Def Jam",
+			"writer_names": "Sean Michael \"Big Sean\" Anderson, Anderson \"Vinylz\" Hernandez, Allen Ritter, Aubrey \"Drake\" Graham",
+			"short_writer_names": "S.M.Anderson, A.Hernandez, A.Ritter, A.Graham",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				},
+				{
+					"billboard_writer_id": 25873,
+					"writer_name": "Sean Michael \"Big Sean\" Anderson",
+					"short_name": "S.M.Anderson"
+				},
+				{
+					"billboard_writer_id": 26859,
+					"writer_name": "Anderson \"Vinylz\" Hernandez",
+					"short_name": "A.Hernandez"
+				},
+				{
+					"billboard_writer_id": 28245,
+					"writer_name": "Allen Ritter",
+					"short_name": "A.Ritter"
+				}],
+			"producer_names": "Anderson \"Vinylz\" Hernandez, Allen Ritter",
+			"short_producer_names": "Vinylz, A.Ritter",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18233,
+					"producer_name": "Anderson \"Vinylz\" Hernandez",
+					"short_name": "Vinylz"
+				},
+				{
+					"billboard_producer_id": 19110,
+					"producer_name": "Allen Ritter",
+					"short_name": "A.Ritter"
+				}],
+			"billboard_artist_id": 134769,
+			"billboard_title_id": 876571,
+			"rank_lw": 36,
+			"rank_2w": 68,
+			"peak_rank": 30,
+			"peak_date": "03/21/2015",
+			"debut_rank": 54,
+			"debut_date": "02/21/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 31,
+			"feature_code": "B",
+			"artist_name": "Sam Hunt",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 131115,
+					"artist_name": "Sam Hunt",
+					"credit": 1
+				}],
+			"title": "Take Your Time",
+			"imprint": "MCA Nashville",
+			"label": "",
+			"writer_names": "Sam Hunt, Josh Osborne, Shane McAnally",
+			"short_writer_names": "S.Hunt, J.Osborne, S.McAnally",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 15916,
+					"writer_name": "Shane McAnally",
+					"short_name": "S.McAnally"
+				},
+				{
+					"billboard_writer_id": 26483,
+					"writer_name": "Josh Osborne",
+					"short_name": "J.Osborne"
+				},
+				{
+					"billboard_writer_id": 26607,
+					"writer_name": "Sam Hunt",
+					"short_name": "S.Hunt"
+				}],
+			"producer_names": "Zach Crowell, Shane McAnally",
+			"short_producer_names": "Z.Crowell, S.McAnally",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17726,
+					"producer_name": "Shane McAnally",
+					"short_name": "S.McAnally"
+				},
+				{
+					"billboard_producer_id": 18442,
+					"producer_name": "Zach Crowell",
+					"short_name": "Z.Crowell"
+				}],
+			"billboard_artist_id": 131115,
+			"billboard_title_id": 865547,
+			"rank_lw": 32,
+			"rank_2w": 39,
+			"peak_rank": 31,
+			"peak_date": "03/21/2015",
+			"debut_rank": 93,
+			"debut_date": "01/17/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 32,
+			"feature_code": " ",
+			"artist_name": "Lillywood & Robin Schulz",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 127179,
+					"artist_name": "Robin Schulz",
+					"credit": 0.5
+				},
+				{
+					"billboard_artist_id": 130778,
+					"artist_name": "Lilly Wood & The Prick",
+					"credit": 0.5
+				}],
+			"title": "Prayer In C",
+			"imprint": "Choke Industry/Tonspiel/Cinq 7/Wargram/Atlantic",
+			"label": "RRP",
+			"writer_names": "Nili Hadida, Benjamin Cotto",
+			"short_writer_names": "N.Hadida, B.Cotto",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29285,
+					"writer_name": "Nili Hadida",
+					"short_name": "N.Hadida"
+				},
+				{
+					"billboard_writer_id": 29286,
+					"writer_name": "Benjamin Cotto",
+					"short_name": "B.Cotto"
+				}],
+			"producer_names": "Robin Schulz, Pierre Guimard",
+			"short_producer_names": "R.Schulz, P.Guimard",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18844,
+					"producer_name": "Pierre Guimard",
+					"short_name": "P.Guimard"
+				},
+				{
+					"billboard_producer_id": 18845,
+					"producer_name": "Robin Schulz",
+					"short_name": "R.Schulz"
+				}],
+			"billboard_artist_id": 130779,
+			"billboard_title_id": 852338,
+			"rank_lw": 27,
+			"rank_2w": 23,
+			"peak_rank": 23,
+			"peak_date": "03/07/2015",
+			"debut_rank": 87,
+			"debut_date": "12/20/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 33,
+			"feature_code": " ",
+			"artist_name": "Sam Smith",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 121940,
+					"artist_name": "Sam Smith",
+					"credit": 1
+				}],
+			"title": "Stay With Me",
+			"imprint": "Capitol",
+			"label": "",
+			"writer_names": "Sam Smith, James Napier, William Phillips",
+			"short_writer_names": "S.Smith, J.Napier, W.Phillips",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 27929,
+					"writer_name": "Sam Smith",
+					"short_name": "S.Smith"
+				},
+				{
+					"billboard_writer_id": 27930,
+					"writer_name": "James Napier",
+					"short_name": "J.Napier"
+				},
+				{
+					"billboard_writer_id": 28960,
+					"writer_name": "William Phillips",
+					"short_name": "W.Phillips"
+				}],
+			"producer_names": "Jimmy Napes, Steve Fitzmaurice, Rodney \"Darkchild\" Jerkins",
+			"short_producer_names": "J.Napes, S.Fitzmaurice, R.Jerkins",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10816,
+					"producer_name": "Rodney \"Darkchild\" Jerkins",
+					"short_name": "R.Jerkins"
+				},
+				{
+					"billboard_producer_id": 18691,
+					"producer_name": "Jimmy Napes",
+					"short_name": "J.Napes"
+				},
+				{
+					"billboard_producer_id": 18747,
+					"producer_name": "Steve Fitzmaurice",
+					"short_name": "S.Fitzmaurice"
+				}],
+			"billboard_artist_id": 121940,
+			"billboard_title_id": 820210,
+			"rank_lw": 26,
+			"rank_2w": 20,
+			"peak_rank": 2,
+			"peak_date": "08/16/2014",
+			"debut_rank": 68,
+			"debut_date": "04/19/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 34,
+			"feature_code": " ",
+			"artist_name": "Ella Henderson",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 131040,
+					"artist_name": "Ella Henderson",
+					"credit": 1
+				}],
+			"title": "Ghost",
+			"imprint": "SYCO",
+			"label": "Columbia",
+			"writer_names": "Ella Henderson, Ryan B. \"Alias\" Tedder, Noel Zancanella",
+			"short_writer_names": "E.Henderson, R.B.Tedder, N.Zancanella",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 21254,
+					"writer_name": "Ryan B. \"Alias\" Tedder",
+					"short_name": "R.B.Tedder"
+				},
+				{
+					"billboard_writer_id": 23833,
+					"writer_name": "Noel Zancanella",
+					"short_name": "N.Zancanella"
+				},
+				{
+					"billboard_writer_id": 29584,
+					"writer_name": "Ella Henderson",
+					"short_name": "E.Henderson"
+				}],
+			"producer_names": "Ryan B.\"Alias\"  Tedder, Noel Zancanella",
+			"short_producer_names": "R.B.Tedder, N.Zancanella",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15353,
+					"producer_name": "Ryan B.\"Alias\"  Tedder",
+					"short_name": "R.B.Tedder"
+				},
+				{
+					"billboard_producer_id": 16627,
+					"producer_name": "Noel Zancanella",
+					"short_name": "N.Zancanella"
+				}],
+			"billboard_artist_id": 131040,
+			"billboard_title_id": 849923,
+			"rank_lw": 29,
+			"rank_2w": 21,
+			"peak_rank": 21,
+			"peak_date": "03/07/2015",
+			"debut_rank": 75,
+			"debut_date": "11/15/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 35,
+			"feature_code": " ",
+			"artist_name": "Beyonce",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83263,
+					"artist_name": "Beyonce",
+					"credit": 1
+				}],
+			"title": "7/11",
+			"imprint": "Parkwood",
+			"label": "Columbia",
+			"writer_names": "Bobby Johnson, Noel C. \"Detail\" Fisher, Beyonce Giselle Knowles",
+			"short_writer_names": "B.Johnson, N.C.Fisher, B.Knowles",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 14769,
+					"writer_name": "Beyonce Giselle Knowles",
+					"short_name": "B.Knowles"
+				},
+				{
+					"billboard_writer_id": 22547,
+					"writer_name": "Noel C. \"Detail\" Fisher",
+					"short_name": "N.C.Fisher"
+				},
+				{
+					"billboard_writer_id": 29786,
+					"writer_name": "Bobby Johnson",
+					"short_name": "B.Johnson"
+				}],
+			"producer_names": "Beyonce Giselle Knowles, Bobby Johnson, Noel C. \"Detail\" Fisher, Sidnew Swift",
+			"short_producer_names": "B.Knowles, B.Johnson, Detail, S.Swift",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12987,
+					"producer_name": "Beyonce Giselle Knowles",
+					"short_name": "B.Knowles"
+				},
+				{
+					"billboard_producer_id": 15757,
+					"producer_name": "Noel C. \"Detail\" Fisher",
+					"short_name": "Detail"
+				},
+				{
+					"billboard_producer_id": 19092,
+					"producer_name": "Sidnew Swift",
+					"short_name": "S.Swift"
+				},
+				{
+					"billboard_producer_id": 19093,
+					"producer_name": "Bobby Johnson",
+					"short_name": "B.Johnson"
+				}],
+			"billboard_artist_id": 83263,
+			"billboard_title_id": 869535,
+			"rank_lw": 31,
+			"rank_2w": 25,
+			"peak_rank": 13,
+			"peak_date": "12/20/2014",
+			"debut_rank": 18,
+			"debut_date": "12/13/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 36,
+			"feature_code": "B",
+			"artist_name": "WALK THE MOON",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 118310,
+					"artist_name": "WALK THE MOON",
+					"credit": 1
+				}],
+			"title": "Shut Up And Dance",
+			"imprint": "RCA",
+			"label": "",
+			"writer_names": "Nicholas Petricca, Eli Maiman, Kevin Ray, Sean Waugaman, Benjamin Berger, Ryan McMahon",
+			"short_writer_names": "N.Petricca, E.Maiman, K.Ray, S.Waugaman, B.Berger, R.McMahon",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26639,
+					"writer_name": "Nicholas Petricca",
+					"short_name": "N.Petricca"
+				},
+				{
+					"billboard_writer_id": 27425,
+					"writer_name": "Eli Maiman",
+					"short_name": "E.Maiman"
+				},
+				{
+					"billboard_writer_id": 27426,
+					"writer_name": "Kevin Ray",
+					"short_name": "K.Ray"
+				},
+				{
+					"billboard_writer_id": 27427,
+					"writer_name": "Sean Waugaman",
+					"short_name": "S.Waugaman"
+				},
+				{
+					"billboard_writer_id": 28079,
+					"writer_name": "Benjamin Berger",
+					"short_name": "B.Berger"
+				},
+				{
+					"billboard_writer_id": 28080,
+					"writer_name": "Ryan McMahon",
+					"short_name": "R.McMahon"
+				}],
+			"producer_names": "Tim Pagnotta",
+			"short_producer_names": "T.Pagnotta",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16402,
+					"producer_name": "Tim Pagnotta",
+					"short_name": "T.Pagnotta"
+				}],
+			"billboard_artist_id": 118310,
+			"billboard_title_id": 859828,
+			"rank_lw": 43,
+			"rank_2w": 48,
+			"peak_rank": 36,
+			"peak_date": "03/21/2015",
+			"debut_rank": 98,
+			"debut_date": "11/22/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 37,
+			"feature_code": " ",
+			"artist_name": "Vance Joy",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 125643,
+					"artist_name": "Vance Joy",
+					"credit": 1
+				}],
+			"title": "Riptide",
+			"imprint": "F-Stop",
+			"label": "Atlantic",
+			"writer_names": "James \"Vance Joy\" Keogh",
+			"short_writer_names": "Vance Joy",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 28787,
+					"writer_name": "James \"Vance Joy\" Keogh",
+					"short_name": "Vance Joy"
+				}],
+			"producer_names": "John Castle, James \"Vance Joy\" Keogh, Edwin White",
+			"short_producer_names": "J.Castle, J.Keogh, E.White",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18600,
+					"producer_name": "John Castle",
+					"short_name": "J.Castle"
+				},
+				{
+					"billboard_producer_id": 18601,
+					"producer_name": "James \"Vance Joy\" Keogh",
+					"short_name": "J.Keogh"
+				},
+				{
+					"billboard_producer_id": 18602,
+					"producer_name": "Edwin White",
+					"short_name": "E.White"
+				}],
+			"billboard_artist_id": 125643,
+			"billboard_title_id": 793032,
+			"rank_lw": 33,
+			"rank_2w": 31,
+			"peak_rank": 30,
+			"peak_date": "01/31/2015",
+			"debut_rank": 92,
+			"debut_date": "07/12/2014",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 38,
+			"feature_code": " ",
+			"artist_name": "Zedd Featuring Selena Gomez",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 101029,
+					"artist_name": "Selena Gomez",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 113967,
+					"artist_name": "Zedd",
+					"credit": 0.7
+				}],
+			"title": "I Want You To Know",
+			"imprint": "Interscope",
+			"label": "",
+			"writer_names": "Anton \"Zedd\" Zaslavski, Ryan B. \"Alias\" Tedder, Kevin Nicholas Drew",
+			"short_writer_names": "A.Zaslavski, R.B.Tedder, K.N.Drew",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 21254,
+					"writer_name": "Ryan B. \"Alias\" Tedder",
+					"short_name": "R.B.Tedder"
+				},
+				{
+					"billboard_writer_id": 26744,
+					"writer_name": "Anton \"Zedd\" Zaslavski",
+					"short_name": "A.Zaslavski"
+				},
+				{
+					"billboard_writer_id": 30090,
+					"writer_name": "Kevin Nicholas Drew",
+					"short_name": "K.N.Drew"
+				}],
+			"producer_names": "Anton \"Zedd\" Zaslavski",
+			"short_producer_names": "Zedd",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17642,
+					"producer_name": "Anton \"Zedd\" Zaslavski",
+					"short_name": "Zedd"
+				}],
+			"billboard_artist_id": 135060,
+			"billboard_title_id": 879582,
+			"rank_lw": 17,
+			"rank_2w": 0,
+			"peak_rank": 17,
+			"peak_date": "03/14/2015",
+			"debut_rank": 17,
+			"debut_date": "03/14/2015",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 39,
+			"feature_code": "B",
+			"artist_name": "Calvin Harris Featuring Ellie Goulding",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 94354,
+					"artist_name": "Calvin Harris",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 107971,
+					"artist_name": "Ellie Goulding",
+					"credit": 0.3
+				}],
+			"title": "Outside",
+			"imprint": "Fly Eye",
+			"label": "Columbia",
+			"writer_names": "Richard Adam \"Calvin Harris\" Wiles, Elena \"Ellie\" Goulding",
+			"short_writer_names": "Calvin Harris, E.Goulding",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25967,
+					"writer_name": "Elena \"Ellie\" Goulding",
+					"short_name": "E.Goulding"
+				},
+				{
+					"billboard_writer_id": 26088,
+					"writer_name": "Richard Adam \"Calvin Harris\" Wiles",
+					"short_name": "Calvin Harris"
+				}],
+			"producer_names": "Richard Adam \"Calvin Harris\" Wiles",
+			"short_producer_names": "Calvin Harris",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17358,
+					"producer_name": "Richard Adam \"Calvin Harris\" Wiles",
+					"short_name": "Calvin Harris"
+				}],
+			"billboard_artist_id": 122060,
+			"billboard_title_id": 865671,
+			"rank_lw": 42,
+			"rank_2w": 43,
+			"peak_rank": 39,
+			"peak_date": "03/21/2015",
+			"debut_rank": 68,
+			"debut_date": "11/08/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 40,
+			"feature_code": " ",
+			"artist_name": "Maroon 5",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83646,
+					"artist_name": "Maroon 5",
+					"credit": 1
+				}],
+			"title": "Animals",
+			"imprint": "222",
+			"label": "Interscope",
+			"writer_names": "Adam Noah Levine, Johan Karl \"Shellback\" Schuster, Benjamin \"Benny Blanco\" Levin",
+			"short_writer_names": "A.N.Levine, Shellback, B.Levin",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 18857,
+					"writer_name": "Adam Noah Levine",
+					"short_name": "A.N.Levine"
+				},
+				{
+					"billboard_writer_id": 22678,
+					"writer_name": "Johan Karl \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				},
+				{
+					"billboard_writer_id": 22921,
+					"writer_name": "Benjamin \"Benny Blanco\" Levin",
+					"short_name": "B.Levin"
+				}],
+			"producer_names": "Johan \"Shellback\" Schuster",
+			"short_producer_names": "Shellback",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16551,
+					"producer_name": "Johan \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"billboard_artist_id": 83646,
+			"billboard_title_id": 857676,
+			"rank_lw": 35,
+			"rank_2w": 37,
+			"peak_rank": 3,
+			"peak_date": "11/22/2014",
+			"debut_rank": 86,
+			"debut_date": "09/06/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 41,
+			"feature_code": " ",
+			"artist_name": "Sia",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 90320,
+					"artist_name": "Sia",
+					"credit": 1
+				}],
+			"title": "Chandelier",
+			"imprint": "Monkey Puzzle",
+			"label": "RCA",
+			"writer_names": "Sia Kate I Furler, Jesse Shatkin",
+			"short_writer_names": "S.K.I.Furler, J.Shatkin",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26002,
+					"writer_name": "Sia Kate I Furler",
+					"short_name": "S.K.I.Furler"
+				},
+				{
+					"billboard_writer_id": 29039,
+					"writer_name": "Jesse Shatkin",
+					"short_name": "J.Shatkin"
+				}],
+			"producer_names": "Jesse Shatkin, Greg Kurstin",
+			"short_producer_names": "J.Shatkin, G.Kurstin",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15697,
+					"producer_name": "Greg Kurstin",
+					"short_name": "G.Kurstin"
+				},
+				{
+					"billboard_producer_id": 18725,
+					"producer_name": "Jesse Shatkin",
+					"short_name": "J.Shatkin"
+				}],
+			"billboard_artist_id": 90320,
+			"billboard_title_id": 819274,
+			"rank_lw": 38,
+			"rank_2w": 30,
+			"peak_rank": 8,
+			"peak_date": "08/23/2014",
+			"debut_rank": 75,
+			"debut_date": "05/24/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 42,
+			"feature_code": "Z",
+			"artist_name": "Empire Cast Featuring Estelle & Jussie Smollett",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 96968,
+					"artist_name": "Estelle",
+					"credit": 0.5
+				},
+				{
+					"billboard_artist_id": 134428,
+					"artist_name": "Empire Cast",
+					"credit": 0
+				},
+				{
+					"billboard_artist_id": 134429,
+					"artist_name": "Jussie Smollett",
+					"credit": 0.5
+				}],
+			"title": "Conqueror",
+			"imprint": "20th Century Fox TV",
+			"label": "Columbia",
+			"writer_names": "Akil C. King, Owens Kyle Henry Bailey, Angel Higgs, Jaramye Daniels, Claude Kelly, Estelle Swaray",
+			"short_writer_names": "A.C.King, O.K.H.Bailey, A.Higgs, J.Daniels, C.Kelly, E.Swaray",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 22140,
+					"writer_name": "Estelle Swaray",
+					"short_name": "E.Swaray"
+				},
+				{
+					"billboard_writer_id": 22920,
+					"writer_name": "Claude Kelly",
+					"short_name": "C.Kelly"
+				},
+				{
+					"billboard_writer_id": 29232,
+					"writer_name": "Jaramye Daniels",
+					"short_name": "J.Daniels"
+				},
+				{
+					"billboard_writer_id": 29233,
+					"writer_name": "Akil C. King",
+					"short_name": "A.C.King"
+				},
+				{
+					"billboard_writer_id": 30146,
+					"writer_name": "Owens Kyle Henry Bailey",
+					"short_name": "O.K.H.Bailey"
+				},
+				{
+					"billboard_writer_id": 30147,
+					"writer_name": "Angel Higgs",
+					"short_name": "A.Higgs"
+				}],
+			"producer_names": "John Lardieri, Sharif \"Reefa\" Slater",
+			"short_producer_names": "J.Lardieri, Reefa",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14730,
+					"producer_name": "Sharif \"Reefa\" Slater",
+					"short_name": "Reefa"
+				},
+				{
+					"billboard_producer_id": 19275,
+					"producer_name": "John Lardieri",
+					"short_name": "J.Lardieri"
+				}],
+			"billboard_artist_id": 135294,
+			"billboard_title_id": 881164,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 42,
+			"peak_date": "03/21/2015",
+			"debut_rank": 42,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 43,
+			"feature_code": " ",
+			"artist_name": "Rae Sremmurd",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 131117,
+					"artist_name": "Rae Sremmurd",
+					"credit": 1
+				}],
+			"title": "No Type",
+			"imprint": "Eardruma",
+			"label": "Interscope",
+			"writer_names": "Michael L. \"Mike WiLL Made-It\" Williams II, Aaquil Brown, Khalief U. Brown",
+			"short_writer_names": "M.L.Williams, A.Brown, K.U.Brown",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26173,
+					"writer_name": "Khalief U. Brown",
+					"short_name": "K.U.Brown"
+				},
+				{
+					"billboard_writer_id": 27617,
+					"writer_name": "Michael L. \"Mike WiLL Made-It\" Williams II",
+					"short_name": "M.L.Williams"
+				},
+				{
+					"billboard_writer_id": 29284,
+					"writer_name": "Aaquil Brown",
+					"short_name": "A.Brown"
+				}],
+			"producer_names": "Michael L. \"Mike WiLL Made-It\" Williams II, Swae Lee",
+			"short_producer_names": "Mike WiLL Made-It, S.Lee",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17561,
+					"producer_name": "Michael L. \"Mike WiLL Made-It\" Williams II",
+					"short_name": "Mike WiLL Made-It"
+				},
+				{
+					"billboard_producer_id": 18955,
+					"producer_name": "Swae Lee",
+					"short_name": "S.Lee"
+				}],
+			"billboard_artist_id": 131117,
+			"billboard_title_id": 859031,
+			"rank_lw": 39,
+			"rank_2w": 38,
+			"peak_rank": 16,
+			"peak_date": "12/06/2014",
+			"debut_rank": 77,
+			"debut_date": "10/11/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 44,
+			"feature_code": "B",
+			"artist_name": "Omarion Featuring Chris Brown & Jhene Aiko",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 87003,
+					"artist_name": "Omarion",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 89758,
+					"artist_name": "Chris Brown",
+					"credit": 0.15
+				},
+				{
+					"billboard_artist_id": 125301,
+					"artist_name": "Jhene Aiko",
+					"credit": 0.15
+				}],
+			"title": "Post To Be",
+			"imprint": "Maybach",
+			"label": "Atlantic",
+			"writer_names": "Omarion Grandberry, Dijon \"DJ Mustard\" McFarlane, Mikely \"Mike Free\" Adam, Micah Powell, Samuel Jean, Christopher Maurice Brown, Jhene Aiko E. Chilombo, Everton Bonner, Lowell Dunbar, John Taylor, Lloyd Willis",
+			"short_writer_names": "O.Grandberry, D.McFarlane, M.Adam, M.Powell, S.Jean, C.M.Brown, J.A.E. Chilombo, E.Bonner, L.Dunbar, J.Taylor, L.Willis",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 13150,
+					"writer_name": "Lowell Dunbar",
+					"short_name": "L.Dunbar"
+				},
+				{
+					"billboard_writer_id": 18532,
+					"writer_name": "Christopher Maurice Brown",
+					"short_name": "C.M.Brown"
+				},
+				{
+					"billboard_writer_id": 20835,
+					"writer_name": "Omarion Grandberry",
+					"short_name": "O.Grandberry"
+				},
+				{
+					"billboard_writer_id": 25067,
+					"writer_name": "Everton Bonner",
+					"short_name": "E.Bonner"
+				},
+				{
+					"billboard_writer_id": 25068,
+					"writer_name": "John Taylor",
+					"short_name": "J.Taylor"
+				},
+				{
+					"billboard_writer_id": 25206,
+					"writer_name": "Micah Powell",
+					"short_name": "M.Powell"
+				},
+				{
+					"billboard_writer_id": 25235,
+					"writer_name": "Samuel Jean",
+					"short_name": "S.Jean"
+				},
+				{
+					"billboard_writer_id": 26388,
+					"writer_name": "Dijon \"DJ Mustard\" McFarlane",
+					"short_name": "D.McFarlane"
+				},
+				{
+					"billboard_writer_id": 27830,
+					"writer_name": "Mikely \"Mike Free\" Adam",
+					"short_name": "M.Adam"
+				},
+				{
+					"billboard_writer_id": 28424,
+					"writer_name": "Jhene Aiko E. Chilombo",
+					"short_name": "J.A.E. Chilombo"
+				},
+				{
+					"billboard_writer_id": 30092,
+					"writer_name": "Lloyd Willis",
+					"short_name": "L.Willis"
+				}],
+			"producer_names": "Dijon \"DJ Mustard\" McFarlane, Mikely \"Mike Free\" Adam",
+			"short_producer_names": "DJ Mustard, M.Adam",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17410,
+					"producer_name": "Dijon \"DJ Mustard\" McFarlane",
+					"short_name": "DJ Mustard"
+				},
+				{
+					"billboard_producer_id": 18291,
+					"producer_name": "Mikely \"Mike Free\" Adam",
+					"short_name": "M.Adam"
+				}],
+			"billboard_artist_id": 133748,
+			"billboard_title_id": 868519,
+			"rank_lw": 46,
+			"rank_2w": 54,
+			"peak_rank": 44,
+			"peak_date": "03/21/2015",
+			"debut_rank": 98,
+			"debut_date": "01/24/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 45,
+			"feature_code": " ",
+			"artist_name": "Sia",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 90320,
+					"artist_name": "Sia",
+					"credit": 1
+				}],
+			"title": "Elastic Heart",
+			"imprint": "Monkey Puzzle",
+			"label": "RCA",
+			"writer_names": "Sia Kate I Furler, Thomas Wesley \"Diplo\" Pentz, Andrew Swanson",
+			"short_writer_names": "S.K.I.Furler, T.W.Pentz, A.Swanson",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25240,
+					"writer_name": "Thomas Wesley \"Diplo\" Pentz",
+					"short_name": "T.W.Pentz"
+				},
+				{
+					"billboard_writer_id": 26002,
+					"writer_name": "Sia Kate I Furler",
+					"short_name": "S.K.I.Furler"
+				},
+				{
+					"billboard_writer_id": 29459,
+					"writer_name": "Andrew Swanson",
+					"short_name": "A.Swanson"
+				}],
+			"producer_names": "Thomas Wesley \"Diplo\" Pentz, Greg Kurstin",
+			"short_producer_names": "Diplo, G.Kurstin",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15697,
+					"producer_name": "Greg Kurstin",
+					"short_name": "G.Kurstin"
+				},
+				{
+					"billboard_producer_id": 15792,
+					"producer_name": "Thomas Wesley \"Diplo\" Pentz",
+					"short_name": "Diplo"
+				}],
+			"billboard_artist_id": 90320,
+			"billboard_title_id": 799066,
+			"rank_lw": 44,
+			"rank_2w": 41,
+			"peak_rank": 17,
+			"peak_date": "01/24/2015",
+			"debut_rank": 17,
+			"debut_date": "01/24/2015",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 46,
+			"feature_code": "B",
+			"artist_name": "Zac Brown Band",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 98061,
+					"artist_name": "Zac Brown Band",
+					"credit": 1
+				}],
+			"title": "Homegrown",
+			"imprint": "Varvatos/Republic",
+			"label": "BMLG/Southern Ground",
+			"writer_names": "Zac Brown, Wyatt Durrette, Niko Moon",
+			"short_writer_names": "Z.Brown, W.Durrette, N.Moon",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 20622,
+					"writer_name": "Zac Brown",
+					"short_name": "Z.Brown"
+				},
+				{
+					"billboard_writer_id": 20623,
+					"writer_name": "Wyatt Durrette",
+					"short_name": "W.Durrette"
+				},
+				{
+					"billboard_writer_id": 29921,
+					"writer_name": "Niko Moon",
+					"short_name": "N.Moon"
+				}],
+			"producer_names": "Jay Joyce, Zac Brown",
+			"short_producer_names": "J.Joyce, Z.Brown",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14531,
+					"producer_name": "Jay Joyce",
+					"short_name": "J.Joyce"
+				},
+				{
+					"billboard_producer_id": 15962,
+					"producer_name": "Zac Brown",
+					"short_name": "Z.Brown"
+				}],
+			"billboard_artist_id": 98061,
+			"billboard_title_id": 874480,
+			"rank_lw": 58,
+			"rank_2w": 66,
+			"peak_rank": 46,
+			"peak_date": "03/21/2015",
+			"debut_rank": 48,
+			"debut_date": "01/31/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 47,
+			"feature_code": "D",
+			"artist_name": "Empire Cast Featuring Jussie Smollett & Yazz",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 134428,
+					"artist_name": "Empire Cast",
+					"credit": 0
+				},
+				{
+					"billboard_artist_id": 134429,
+					"artist_name": "Jussie Smollett",
+					"credit": 0.5
+				},
+				{
+					"billboard_artist_id": 134542,
+					"artist_name": "Yazz",
+					"credit": 0.5
+				}],
+			"title": "You're So Beautiful",
+			"imprint": "20th Century Fox TV",
+			"label": "Columbia",
+			"writer_names": "James David Washington, Jussie Smollett, Justin Bostwick",
+			"short_writer_names": "J.D.Washington, J.Smollett, J.Bostwick",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26577,
+					"writer_name": "James David Washington",
+					"short_name": "J.D.Washington"
+				},
+				{
+					"billboard_writer_id": 30048,
+					"writer_name": "Justin Bostwick",
+					"short_name": "J.Bostwick"
+				},
+				{
+					"billboard_writer_id": 30073,
+					"writer_name": "Jussie Smollett",
+					"short_name": "J.Smollett"
+				}],
+			"producer_names": "Jim Beanz",
+			"short_producer_names": "J.Beanz",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16290,
+					"producer_name": "Jim Beanz",
+					"short_name": "J.Beanz"
+				}],
+			"billboard_artist_id": 134541,
+			"billboard_title_id": 880213,
+			"rank_lw": 71,
+			"rank_2w": 0,
+			"peak_rank": 47,
+			"peak_date": "03/21/2015",
+			"debut_rank": 71,
+			"debut_date": "03/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 48,
+			"feature_code": "Z",
+			"artist_name": "Carly Rae Jepsen",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 101566,
+					"artist_name": "Carly Rae Jepsen",
+					"credit": 1
+				}],
+			"title": "I Really Like You",
+			"imprint": "604/SchoolBoy",
+			"label": "Interscope",
+			"writer_names": "Jacob \"Jahmal House/J Kash\" Kasher Hindlin, Peter Svensson, Carly Rae Jepsen",
+			"short_writer_names": "Jahmal House, P.Svensson, C.R.Jepsen",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 14413,
+					"writer_name": "Peter Svensson",
+					"short_name": "P.Svensson"
+				},
+				{
+					"billboard_writer_id": 22931,
+					"writer_name": "Carly Rae Jepsen",
+					"short_name": "C.R.Jepsen"
+				},
+				{
+					"billboard_writer_id": 23070,
+					"writer_name": "Jacob \"Jahmal House/J Kash\" Kasher Hindlin",
+					"short_name": "Jahmal House"
+				}],
+			"producer_names": "Peter Svensson, Jeff Halatrax",
+			"short_producer_names": "P.Svensson, J.Halatrax",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16863,
+					"producer_name": "Jeff Halatrax",
+					"short_name": "J.Halatrax"
+				},
+				{
+					"billboard_producer_id": 18248,
+					"producer_name": "Peter Svensson",
+					"short_name": "P.Svensson"
+				}],
+			"billboard_artist_id": 101566,
+			"billboard_title_id": 880668,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 48,
+			"peak_date": "03/21/2015",
+			"debut_rank": 48,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 49,
+			"feature_code": " ",
+			"artist_name": "Ariana Grande & The Weeknd",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 112556,
+					"artist_name": "Ariana Grande",
+					"credit": 0.5
+				},
+				{
+					"billboard_artist_id": 116870,
+					"artist_name": "The Weeknd",
+					"credit": 0.5
+				}],
+			"title": "Love Me Harder",
+			"imprint": "Republic",
+			"label": "",
+			"writer_names": "Martin Karl \"Max Martin\" Sandberg, Savan Kotecha, Peter Svensson, Ali Payami, Abel \"The Weeknd\" Tesfaye, Ahmad Ashad Balshe",
+			"short_writer_names": "Max Martin, S.Kotecha, P.Svensson, A.Payami, A.Tesfaye, A.Balshe",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 14413,
+					"writer_name": "Peter Svensson",
+					"short_name": "P.Svensson"
+				},
+				{
+					"billboard_writer_id": 20066,
+					"writer_name": "Savan Kotecha",
+					"short_name": "S.Kotecha"
+				},
+				{
+					"billboard_writer_id": 21561,
+					"writer_name": "Ahmad Ashad Balshe",
+					"short_name": "A.Balshe"
+				},
+				{
+					"billboard_writer_id": 26252,
+					"writer_name": "Abel \"The Weeknd\" Tesfaye",
+					"short_name": "A.Tesfaye"
+				},
+				{
+					"billboard_writer_id": 29592,
+					"writer_name": "Ali Payami",
+					"short_name": "A.Payami"
+				}],
+			"producer_names": "Ali Payami, Peter Svensson",
+			"short_producer_names": "A.Payami, P.Svensson",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18248,
+					"producer_name": "Peter Svensson",
+					"short_name": "P.Svensson"
+				},
+				{
+					"billboard_producer_id": 18992,
+					"producer_name": "Ali Payami",
+					"short_name": "A.Payami"
+				}],
+			"billboard_artist_id": 132261,
+			"billboard_title_id": 858413,
+			"rank_lw": 41,
+			"rank_2w": 33,
+			"peak_rank": 7,
+			"peak_date": "11/22/2014",
+			"debut_rank": 79,
+			"debut_date": "10/25/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 50,
+			"feature_code": " ",
+			"artist_name": "Blake Shelton Featuring Ashley Monroe",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 81257,
+					"artist_name": "Blake Shelton",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 91405,
+					"artist_name": "Ashley Monroe",
+					"credit": 0.3
+				}],
+			"title": "Lonely Tonight",
+			"imprint": "Warner Bros. Nashville",
+			"label": "WMN",
+			"writer_names": "Brent Anderson, Ryan Hurd",
+			"short_writer_names": "B.Anderson, R.Hurd",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26157,
+					"writer_name": "Brent Anderson",
+					"short_name": "B.Anderson"
+				},
+				{
+					"billboard_writer_id": 27009,
+					"writer_name": "Ryan Hurd",
+					"short_name": "R.Hurd"
+				}],
+			"producer_names": "Scott Hendricks",
+			"short_producer_names": "S.Hendricks",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 6633,
+					"producer_name": "Scott Hendricks",
+					"short_name": "S.Hendricks"
+				}],
+			"billboard_artist_id": 132718,
+			"billboard_title_id": 860693,
+			"rank_lw": 48,
+			"rank_2w": 47,
+			"peak_rank": 47,
+			"peak_date": "03/07/2015",
+			"debut_rank": 95,
+			"debut_date": "12/20/2014",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 51,
+			"feature_code": " ",
+			"artist_name": "Drake",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 1
+				}],
+			"title": "Energy",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Aubrey \"Drake\" Graham, Matthew \"Boi-1da\" Samuels",
+			"short_writer_names": "A.Graham, M.Samuels",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 23321,
+					"writer_name": "Matthew \"Boi-1da\" Samuels",
+					"short_name": "M.Samuels"
+				},
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				}],
+			"producer_names": "Matthew \"Boi-1da\" Samuels",
+			"short_producer_names": "Boi-1da",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16379,
+					"producer_name": "Matthew \"Boi-1da\" Samuels",
+					"short_name": "Boi-1da"
+				}],
+			"billboard_artist_id": 104286,
+			"billboard_title_id": 878108,
+			"rank_lw": 40,
+			"rank_2w": 26,
+			"peak_rank": 26,
+			"peak_date": "03/07/2015",
+			"debut_rank": 49,
+			"debut_date": "02/28/2015",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 52,
+			"feature_code": "B",
+			"artist_name": "Cole Swindell",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 124962,
+					"artist_name": "Cole Swindell",
+					"credit": 1
+				}],
+			"title": "Ain't Worth The Whiskey",
+			"imprint": "Warner Bros. Nashville",
+			"label": "WMN",
+			"writer_names": "Cole Swindell, Adam Sanders, Josh Martin",
+			"short_writer_names": "C.Swindell, A.Sanders, J.Martin",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26546,
+					"writer_name": "Cole Swindell",
+					"short_name": "C.Swindell"
+				},
+				{
+					"billboard_writer_id": 28752,
+					"writer_name": "Josh Martin",
+					"short_name": "J.Martin"
+				},
+				{
+					"billboard_writer_id": 29674,
+					"writer_name": "Adam Sanders",
+					"short_name": "A.Sanders"
+				}],
+			"producer_names": "Michael Carter",
+			"short_producer_names": "M.Carter",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18531,
+					"producer_name": "Michael Carter",
+					"short_name": "M.Carter"
+				}],
+			"billboard_artist_id": 124962,
+			"billboard_title_id": 814445,
+			"rank_lw": 53,
+			"rank_2w": 59,
+			"peak_rank": 52,
+			"peak_date": "03/21/2015",
+			"debut_rank": 99,
+			"debut_date": "01/17/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 53,
+			"feature_code": "B",
+			"artist_name": "Tove Lo",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 126765,
+					"artist_name": "Tove Lo",
+					"credit": 1
+				}],
+			"title": "Talking Body",
+			"imprint": "Island",
+			"label": "Republic",
+			"writer_names": "Tove Lo, Jakob Jerlstrom, Ludvig Soderberg",
+			"short_writer_names": "T.Lo, J.Jerlstrom, L.Soderberg",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 28308,
+					"writer_name": "Tove Lo",
+					"short_name": "T.Lo"
+				},
+				{
+					"billboard_writer_id": 29102,
+					"writer_name": "Jakob Jerlstrom",
+					"short_name": "J.Jerlstrom"
+				},
+				{
+					"billboard_writer_id": 29103,
+					"writer_name": "Ludvig Soderberg",
+					"short_name": "L.Soderberg"
+				}],
+			"producer_names": "The Struts, Johan \"Shellback\" Schuster",
+			"short_producer_names": "The Struts, Shellback",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16551,
+					"producer_name": "Johan \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				},
+				{
+					"billboard_producer_id": 18752,
+					"producer_name": "The Struts",
+					"short_name": "The Struts"
+				}],
+			"billboard_artist_id": 126765,
+			"billboard_title_id": 861663,
+			"rank_lw": 56,
+			"rank_2w": 65,
+			"peak_rank": 53,
+			"peak_date": "03/21/2015",
+			"debut_rank": 95,
+			"debut_date": "02/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 54,
+			"feature_code": "B",
+			"artist_name": "One Direction",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 115772,
+					"artist_name": "One Direction",
+					"credit": 1
+				}],
+			"title": "Night Changes",
+			"imprint": "SYCO",
+			"label": "Columbia",
+			"writer_names": "John Ryan, Julian Bunetta, Jamie Scott, Louis Tomlinson, Niall Horan, Zayn Malik, Harry Styles",
+			"short_writer_names": "J.Ryan, J.Bunetta, J.Scott, L.Tomlinson, N.Horan, Z.Malik, H.Styles",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25019,
+					"writer_name": "Julian Bunetta",
+					"short_name": "J.Bunetta"
+				},
+				{
+					"billboard_writer_id": 25357,
+					"writer_name": "Jamie Scott",
+					"short_name": "J.Scott"
+				},
+				{
+					"billboard_writer_id": 27161,
+					"writer_name": "John Ryan",
+					"short_name": "J.Ryan"
+				},
+				{
+					"billboard_writer_id": 27164,
+					"writer_name": "Louis Tomlinson",
+					"short_name": "L.Tomlinson"
+				},
+				{
+					"billboard_writer_id": 27165,
+					"writer_name": "Harry Styles",
+					"short_name": "H.Styles"
+				},
+				{
+					"billboard_writer_id": 28393,
+					"writer_name": "Niall Horan",
+					"short_name": "N.Horan"
+				},
+				{
+					"billboard_writer_id": 28394,
+					"writer_name": "Zayn Malik",
+					"short_name": "Z.Malik"
+				}],
+			"producer_names": "Julian Bunetta, John Ryan",
+			"short_producer_names": "J.Bunetta, J.Ryan",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10502,
+					"producer_name": "John Ryan",
+					"short_name": "J.Ryan"
+				},
+				{
+					"billboard_producer_id": 16881,
+					"producer_name": "Julian Bunetta",
+					"short_name": "J.Bunetta"
+				}],
+			"billboard_artist_id": 115772,
+			"billboard_title_id": 868497,
+			"rank_lw": 52,
+			"rank_2w": 55,
+			"peak_rank": 31,
+			"peak_date": "12/13/2014",
+			"debut_rank": 55,
+			"debut_date": "12/06/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 55,
+			"feature_code": " ",
+			"artist_name": "O.T. Genasis",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 133683,
+					"artist_name": "O.T. Genasis",
+					"credit": 1
+				}],
+			"title": "CoCo",
+			"imprint": "Conglomerate",
+			"label": "Atlantic",
+			"writer_names": "Odis \"O.T. Genasis\" Flores, Shakur Thomas",
+			"short_writer_names": "O.Flores, S.Thomas",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29864,
+					"writer_name": "Odis \"O.T. Genasis\" Flores",
+					"short_name": "O.Flores"
+				},
+				{
+					"billboard_writer_id": 29865,
+					"writer_name": "Shakur Thomas",
+					"short_name": "S.Thomas"
+				}],
+			"producer_names": "Odis Flores",
+			"short_producer_names": "O.Flores",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 19155,
+					"producer_name": "Odis Flores",
+					"short_name": "O.Flores"
+				}],
+			"billboard_artist_id": 133683,
+			"billboard_title_id": 866504,
+			"rank_lw": 45,
+			"rank_2w": 36,
+			"peak_rank": 20,
+			"peak_date": "02/14/2015",
+			"debut_rank": 77,
+			"debut_date": "12/06/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 56,
+			"feature_code": "B",
+			"artist_name": "Brett Eldredge",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 110741,
+					"artist_name": "Brett Eldredge",
+					"credit": 1
+				}],
+			"title": "Mean To Me",
+			"imprint": "Atlantic",
+			"label": "WMN",
+			"writer_names": "Brett Eldredge, Travis \"Scooter Carusoe\" Hill",
+			"short_writer_names": "B.Eldredge, Scooter Carusoe",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19670,
+					"writer_name": "Travis \"Scooter Carusoe\" Hill",
+					"short_name": "Scooter Carusoe"
+				},
+				{
+					"billboard_writer_id": 25252,
+					"writer_name": "Brett Eldredge",
+					"short_name": "B.Eldredge"
+				}],
+			"producer_names": "Luke Laird",
+			"short_producer_names": "L.Laird",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17725,
+					"producer_name": "Luke Laird",
+					"short_name": "L.Laird"
+				}],
+			"billboard_artist_id": 110741,
+			"billboard_title_id": 791390,
+			"rank_lw": 55,
+			"rank_2w": 57,
+			"peak_rank": 55,
+			"peak_date": "03/14/2015",
+			"debut_rank": 95,
+			"debut_date": "11/22/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 57,
+			"feature_code": "B",
+			"artist_name": "Jason Aldean",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 89161,
+					"artist_name": "Jason Aldean",
+					"credit": 1
+				}],
+			"title": "Just Gettin' Started",
+			"imprint": "Broken Bow",
+			"label": "",
+			"writer_names": "Christopher DeStefano, Thomas Rhett Akins, Ashley Gorley",
+			"short_writer_names": "C. DeStefano, R.Akins, A.Gorley",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 10656,
+					"writer_name": "Thomas Rhett Akins",
+					"short_name": "R.Akins"
+				},
+				{
+					"billboard_writer_id": 18057,
+					"writer_name": "Ashley Gorley",
+					"short_name": "A.Gorley"
+				},
+				{
+					"billboard_writer_id": 26261,
+					"writer_name": "Christopher DeStefano",
+					"short_name": "C. DeStefano"
+				}],
+			"producer_names": "Michael Knox",
+			"short_producer_names": "M.Knox",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12397,
+					"producer_name": "Michael Knox",
+					"short_name": "M.Knox"
+				}],
+			"billboard_artist_id": 89161,
+			"billboard_title_id": 862979,
+			"rank_lw": 54,
+			"rank_2w": 60,
+			"peak_rank": 54,
+			"peak_date": "03/14/2015",
+			"debut_rank": 61,
+			"debut_date": "10/18/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 58,
+			"feature_code": "B",
+			"artist_name": "Sam Smith",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 121940,
+					"artist_name": "Sam Smith",
+					"credit": 1
+				}],
+			"title": "Lay Me Down",
+			"imprint": "Capitol",
+			"label": "",
+			"writer_names": "Sam Smith, James Napier, Elvin Smith",
+			"short_writer_names": "S.Smith, J.Napier, E.Smith",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 27929,
+					"writer_name": "Sam Smith",
+					"short_name": "S.Smith"
+				},
+				{
+					"billboard_writer_id": 27930,
+					"writer_name": "James Napier",
+					"short_name": "J.Napier"
+				},
+				{
+					"billboard_writer_id": 30063,
+					"writer_name": "Elvin Smith",
+					"short_name": "E.Smith"
+				}],
+			"producer_names": "Jimmy Napes, Steve Fitzmaurice",
+			"short_producer_names": "J.Napes, S.Fitzmaurice",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18691,
+					"producer_name": "Jimmy Napes",
+					"short_name": "J.Napes"
+				},
+				{
+					"billboard_producer_id": 18747,
+					"producer_name": "Steve Fitzmaurice",
+					"short_name": "S.Fitzmaurice"
+				}],
+			"billboard_artist_id": 121940,
+			"billboard_title_id": 810406,
+			"rank_lw": 62,
+			"rank_2w": 72,
+			"peak_rank": 58,
+			"peak_date": "02/28/2015",
+			"debut_rank": 75,
+			"debut_date": "02/21/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 59,
+			"feature_code": " ",
+			"artist_name": "Imagine Dragons",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 118195,
+					"artist_name": "Imagine Dragons",
+					"credit": 1
+				}],
+			"title": "I Bet My Life",
+			"imprint": "KIDinaKORNER",
+			"label": "Interscope",
+			"writer_names": "Imagine Dragons",
+			"short_writer_names": "Imagine Dragons",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26848,
+					"writer_name": "Imagine Dragons",
+					"short_name": "Imagine Dragons"
+				}],
+			"producer_names": "Imagine Dragons",
+			"short_producer_names": "Imagine Dragons",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17583,
+					"producer_name": "Imagine Dragons",
+					"short_name": "Imagine Dragons"
+				}],
+			"billboard_artist_id": 118195,
+			"billboard_title_id": 866106,
+			"rank_lw": 47,
+			"rank_2w": 28,
+			"peak_rank": 28,
+			"peak_date": "03/07/2015",
+			"debut_rank": 53,
+			"debut_date": "11/15/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 60,
+			"feature_code": " ",
+			"artist_name": "Drake",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 1
+				}],
+			"title": "Legend",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Aubrey \"Drake\" Graham, Jahron \"PARTYNEXTDOOR\" Anthony Brathwaite, Q. Miller, Benjamin Bush, Timothy V. \"Timbaland\" Mosley",
+			"short_writer_names": "A.Graham, J.A.Brathwaite, Q.Miller, B.Bush, T.V.Mosley",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 13545,
+					"writer_name": "Timothy V. \"Timbaland\" Mosley",
+					"short_name": "T.V.Mosley"
+				},
+				{
+					"billboard_writer_id": 14695,
+					"writer_name": "Benjamin Bush",
+					"short_name": "B.Bush"
+				},
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				},
+				{
+					"billboard_writer_id": 29443,
+					"writer_name": "Jahron \"PARTYNEXTDOOR\" Anthony Brathwaite",
+					"short_name": "J.A.Brathwaite"
+				},
+				{
+					"billboard_writer_id": 30105,
+					"writer_name": "Q. Miller",
+					"short_name": "Q.Miller"
+				}],
+			"producer_names": "Jahron \"PARTYNEXTDOOR\" Brathwaite",
+			"short_producer_names": "PARTYNEXTDOOR",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18913,
+					"producer_name": "Jahron \"PARTYNEXTDOOR\" Brathwaite",
+					"short_name": "PARTYNEXTDOOR"
+				}],
+			"billboard_artist_id": 104286,
+			"billboard_title_id": 878160,
+			"rank_lw": 57,
+			"rank_2w": 52,
+			"peak_rank": 52,
+			"peak_date": "03/07/2015",
+			"debut_rank": 86,
+			"debut_date": "02/28/2015",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 61,
+			"feature_code": "B",
+			"artist_name": "Chris Young",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 18724,
+					"artist_name": "Chris Young",
+					"credit": 1
+				}],
+			"title": "Lonely Eyes",
+			"imprint": "RCA Nashville",
+			"label": "",
+			"writer_names": "Johnny Bulford, Jason Matthews, Laura Veltz",
+			"short_writer_names": "J.Bulford, J.Matthews, L.Veltz",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26141,
+					"writer_name": "Johnny Bulford",
+					"short_name": "J.Bulford"
+				},
+				{
+					"billboard_writer_id": 27844,
+					"writer_name": "Laura Veltz",
+					"short_name": "L.Veltz"
+				},
+				{
+					"billboard_writer_id": 28542,
+					"writer_name": "Jason Matthews",
+					"short_name": "J.Matthews"
+				}],
+			"producer_names": "James Stroud",
+			"short_producer_names": "J.Stroud",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 1322,
+					"producer_name": "James Stroud",
+					"short_name": "J.Stroud"
+				}],
+			"billboard_artist_id": 18724,
+			"billboard_title_id": 797281,
+			"rank_lw": 64,
+			"rank_2w": 71,
+			"peak_rank": 61,
+			"peak_date": "03/21/2015",
+			"debut_rank": 95,
+			"debut_date": "01/03/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 62,
+			"feature_code": " ",
+			"artist_name": "J. Cole",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 107126,
+					"artist_name": "J. Cole",
+					"credit": 1
+				}],
+			"title": "Apparently",
+			"imprint": "Dreamville/Roc Nation",
+			"label": "Columbia",
+			"writer_names": "Jermaine Lamarr \"J.\" Cole, Filippo Trecca",
+			"short_writer_names": "J.Cole, F.Trecca",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 22431,
+					"writer_name": "Jermaine Lamarr \"J.\" Cole",
+					"short_name": "J.Cole"
+				},
+				{
+					"billboard_writer_id": 29851,
+					"writer_name": "Filippo Trecca",
+					"short_name": "F.Trecca"
+				}],
+			"producer_names": "Jermaine Lamarr \"J.\" Cole",
+			"short_producer_names": "J.L.Cole",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 3431,
+					"producer_name": "Jermaine Lamarr \"J.\" Cole",
+					"short_name": "J.L.Cole"
+				}],
+			"billboard_artist_id": 107126,
+			"billboard_title_id": 871967,
+			"rank_lw": 59,
+			"rank_2w": 61,
+			"peak_rank": 58,
+			"peak_date": "02/21/2015",
+			"debut_rank": 90,
+			"debut_date": "01/03/2015",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 63,
+			"feature_code": " ",
+			"artist_name": "Thomas Rhett",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 117976,
+					"artist_name": "Thomas Rhett",
+					"credit": 1
+				}],
+			"title": "Make Me Wanna",
+			"imprint": "Valory",
+			"label": "",
+			"writer_names": "Thomas Rhett Akins, Jr., Bart Butler, Larry McCoy",
+			"short_writer_names": "Thomas Rhett, B.Butler, L.McCoy",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19737,
+					"writer_name": "Bart Butler",
+					"short_name": "B.Butler"
+				},
+				{
+					"billboard_writer_id": 26376,
+					"writer_name": "Thomas Rhett Akins, Jr.",
+					"short_name": "Thomas Rhett"
+				},
+				{
+					"billboard_writer_id": 29349,
+					"writer_name": "Larry McCoy",
+					"short_name": "L.McCoy"
+				}],
+			"producer_names": "Jay Joyce",
+			"short_producer_names": "J.Joyce",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14531,
+					"producer_name": "Jay Joyce",
+					"short_name": "J.Joyce"
+				}],
+			"billboard_artist_id": 117976,
+			"billboard_title_id": 756994,
+			"rank_lw": 51,
+			"rank_2w": 45,
+			"peak_rank": 43,
+			"peak_date": "02/28/2015",
+			"debut_rank": 99,
+			"debut_date": "11/29/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 64,
+			"feature_code": "B",
+			"artist_name": "Rae Sremmurd Featuring Nicki Minaj & Young Thug",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 87648,
+					"artist_name": "Nicki Minaj",
+					"credit": 0.15
+				},
+				{
+					"billboard_artist_id": 128158,
+					"artist_name": "Young Thug",
+					"credit": 0.15
+				},
+				{
+					"billboard_artist_id": 131117,
+					"artist_name": "Rae Sremmurd",
+					"credit": 0.7
+				}],
+			"title": "Throw Sum Mo",
+			"imprint": "Eardruma",
+			"label": "Interscope",
+			"writer_names": "Aaquil Brown, Khalief U. Brown, Kenneth Coby, Michael L. \"Mike WiLL Made-It\" Williams II, Jeremy \"Jeremih\" Philip Felton, Onika Tanya \"Nicki Minaj\" Maraj, J.Williams",
+			"short_writer_names": "A.Brown, K.U.Brown, K.Coby, M.L.Williams, J.P.Felton, O.T.Maraj, J.Williams",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 1226,
+					"writer_name": "J.Williams",
+					"short_name": "J.Williams"
+				},
+				{
+					"billboard_writer_id": 20951,
+					"writer_name": "Kenneth Coby",
+					"short_name": "K.Coby"
+				},
+				{
+					"billboard_writer_id": 23120,
+					"writer_name": "Jeremy \"Jeremih\" Philip Felton",
+					"short_name": "J.P.Felton"
+				},
+				{
+					"billboard_writer_id": 23551,
+					"writer_name": "Onika Tanya \"Nicki Minaj\" Maraj",
+					"short_name": "O.T.Maraj"
+				},
+				{
+					"billboard_writer_id": 26173,
+					"writer_name": "Khalief U. Brown",
+					"short_name": "K.U.Brown"
+				},
+				{
+					"billboard_writer_id": 27617,
+					"writer_name": "Michael L. \"Mike WiLL Made-It\" Williams II",
+					"short_name": "M.L.Williams"
+				},
+				{
+					"billboard_writer_id": 29284,
+					"writer_name": "Aaquil Brown",
+					"short_name": "A.Brown"
+				}],
+			"producer_names": "S o u n d Z",
+			"short_producer_names": "S o u n d Z",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15676,
+					"producer_name": "S o u n d Z",
+					"short_name": "S o u n d Z"
+				}],
+			"billboard_artist_id": 134156,
+			"billboard_title_id": 872258,
+			"rank_lw": 72,
+			"rank_2w": 78,
+			"peak_rank": 64,
+			"peak_date": "03/21/2015",
+			"debut_rank": 92,
+			"debut_date": "01/17/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 65,
+			"feature_code": "B",
+			"artist_name": "Drake",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 1
+				}],
+			"title": "Know Yourself",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Aubrey \"Drake\" Graham, Q. Miller, Matthew \"Boi-1da\" Samuels, Anderson \"Vinylz\" Hernandez, Joshua \"Sky Sense\" Scruggs",
+			"short_writer_names": "A.Graham, Q.Miller, M.Samuels, A.Hernandez, J.Scruggs",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 23321,
+					"writer_name": "Matthew \"Boi-1da\" Samuels",
+					"short_name": "M.Samuels"
+				},
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				},
+				{
+					"billboard_writer_id": 26859,
+					"writer_name": "Anderson \"Vinylz\" Hernandez",
+					"short_name": "A.Hernandez"
+				},
+				{
+					"billboard_writer_id": 29849,
+					"writer_name": "Joshua \"Sky Sense\" Scruggs",
+					"short_name": "J.Scruggs"
+				},
+				{
+					"billboard_writer_id": 30105,
+					"writer_name": "Q. Miller",
+					"short_name": "Q.Miller"
+				}],
+			"producer_names": "Matthew \"Boi-1da\" Samuels, Anderson \"Vinylz\" Hernandez, Josha \"Sky Sense\" Scruggs",
+			"short_producer_names": "Boi-1da, Vinylz, Sky Sense",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16379,
+					"producer_name": "Matthew \"Boi-1da\" Samuels",
+					"short_name": "Boi-1da"
+				},
+				{
+					"billboard_producer_id": 18233,
+					"producer_name": "Anderson \"Vinylz\" Hernandez",
+					"short_name": "Vinylz"
+				},
+				{
+					"billboard_producer_id": 19254,
+					"producer_name": "Josha \"Sky Sense\" Scruggs",
+					"short_name": "Sky Sense"
+				}],
+			"billboard_artist_id": 104286,
+			"billboard_title_id": 878167,
+			"rank_lw": 75,
+			"rank_2w": 70,
+			"peak_rank": 65,
+			"peak_date": "03/21/2015",
+			"debut_rank": 70,
+			"debut_date": "03/07/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 66,
+			"feature_code": " ",
+			"artist_name": "Nicki Minaj Featuring Beyonce",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 83263,
+					"artist_name": "Beyonce",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 87648,
+					"artist_name": "Nicki Minaj",
+					"credit": 0.7
+				}],
+			"title": "Feeling Myself",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Onika Tanya \"Nicki Minaj\" Maraj, Beyonce Giselle Knowles, Solana Rowe, Chauncey \"Hit-Boy\" Hollis",
+			"short_writer_names": "O.T.Maraj, B.Knowles, S.Rowe, C.Hollis",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 14769,
+					"writer_name": "Beyonce Giselle Knowles",
+					"short_name": "B.Knowles"
+				},
+				{
+					"billboard_writer_id": 23551,
+					"writer_name": "Onika Tanya \"Nicki Minaj\" Maraj",
+					"short_name": "O.T.Maraj"
+				},
+				{
+					"billboard_writer_id": 23559,
+					"writer_name": "Chauncey \"Hit-Boy\" Hollis",
+					"short_name": "C.Hollis"
+				},
+				{
+					"billboard_writer_id": 29879,
+					"writer_name": "Solana Rowe",
+					"short_name": "S.Rowe"
+				}],
+			"producer_names": "Chauncey \"Hit-Boy\" Hollis, Beyonce Giselle Knowles",
+			"short_producer_names": "Hit-Boy, B.Knowles",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12987,
+					"producer_name": "Beyonce Giselle Knowles",
+					"short_name": "B.Knowles"
+				},
+				{
+					"billboard_producer_id": 17306,
+					"producer_name": "Chauncey \"Hit-Boy\" Hollis",
+					"short_name": "Hit-Boy"
+				}],
+			"billboard_artist_id": 134137,
+			"billboard_title_id": 872232,
+			"rank_lw": 63,
+			"rank_2w": 62,
+			"peak_rank": 43,
+			"peak_date": "01/03/2015",
+			"debut_rank": 43,
+			"debut_date": "01/03/2015",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 67,
+			"feature_code": "B",
+			"artist_name": "Darius Rucker",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 82953,
+					"artist_name": "Darius Rucker",
+					"credit": 1
+				}],
+			"title": "Homegrown Honey",
+			"imprint": "Capitol Nashville",
+			"label": "",
+			"writer_names": "Darius Rucker, Charles Kelley, Nathan Chapman",
+			"short_writer_names": "D.Rucker, C.Kelley, N.Chapman",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 2018,
+					"writer_name": "Nathan Chapman",
+					"short_name": "N.Chapman"
+				},
+				{
+					"billboard_writer_id": 10679,
+					"writer_name": "Darius Rucker",
+					"short_name": "D.Rucker"
+				},
+				{
+					"billboard_writer_id": 10921,
+					"writer_name": "Charles Kelley",
+					"short_name": "C.Kelley"
+				}],
+			"producer_names": "Frank Rogers",
+			"short_producer_names": "F.Rogers",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12573,
+					"producer_name": "Frank Rogers",
+					"short_name": "F.Rogers"
+				}],
+			"billboard_artist_id": 82953,
+			"billboard_title_id": 856350,
+			"rank_lw": 70,
+			"rank_2w": 73,
+			"peak_rank": 67,
+			"peak_date": "03/21/2015",
+			"debut_rank": 97,
+			"debut_date": "11/22/2014",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 68,
+			"feature_code": "B",
+			"artist_name": "Trey Songz",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 89345,
+					"artist_name": "Trey Songz",
+					"credit": 1
+				}],
+			"title": "Slow Motion",
+			"imprint": "Songbook",
+			"label": "Atlantic",
+			"writer_names": "Tremaine \"Trey Songz\" Neverson, Charlie Puth, Geoffrey Earley, Jacob \"Jahmal House/J Kash\" Kasher Hindlin",
+			"short_writer_names": "T.Neverson, C.Puth, G.Earley, Jahmal House",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19900,
+					"writer_name": "Tremaine \"Trey Songz\" Neverson",
+					"short_name": "T.Neverson"
+				},
+				{
+					"billboard_writer_id": 23070,
+					"writer_name": "Jacob \"Jahmal House/J Kash\" Kasher Hindlin",
+					"short_name": "Jahmal House"
+				},
+				{
+					"billboard_writer_id": 28342,
+					"writer_name": "Geoffrey Earley",
+					"short_name": "G.Earley"
+				},
+				{
+					"billboard_writer_id": 29998,
+					"writer_name": "Charlie Puth",
+					"short_name": "C.Puth"
+				}],
+			"producer_names": "Charlie Puth, Geoffro Cause",
+			"short_producer_names": "C.Puth, Geoffro Cause",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18634,
+					"producer_name": "Geoffro Cause",
+					"short_name": "Geoffro Cause"
+				},
+				{
+					"billboard_producer_id": 19196,
+					"producer_name": "Charlie Puth",
+					"short_name": "C.Puth"
+				}],
+			"billboard_artist_id": 89345,
+			"billboard_title_id": 875824,
+			"rank_lw": 77,
+			"rank_2w": 96,
+			"peak_rank": 68,
+			"peak_date": "03/21/2015",
+			"debut_rank": 99,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 69,
+			"feature_code": " ",
+			"artist_name": "Selena Gomez",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 101029,
+					"artist_name": "Selena Gomez",
+					"credit": 1
+				}],
+			"title": "The Heart Wants What It Wants",
+			"imprint": "Hollywood",
+			"label": "",
+			"writer_names": "Selena Gomez, Antonina Armato, David Jost, Tim James",
+			"short_writer_names": "S.Gomez, A.Armato, D.Jost, T.James",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 16352,
+					"writer_name": "Tim James",
+					"short_name": "T.James"
+				},
+				{
+					"billboard_writer_id": 16549,
+					"writer_name": "Antonina Armato",
+					"short_name": "A.Armato"
+				},
+				{
+					"billboard_writer_id": 22270,
+					"writer_name": "David Jost",
+					"short_name": "D.Jost"
+				},
+				{
+					"billboard_writer_id": 29687,
+					"writer_name": "Selena Gomez",
+					"short_name": "S.Gomez"
+				}],
+			"producer_names": "ROCKMAFIA",
+			"short_producer_names": "ROCKMAFIA",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16836,
+					"producer_name": "ROCKMAFIA",
+					"short_name": "ROCKMAFIA"
+				}],
+			"billboard_artist_id": 101029,
+			"billboard_title_id": 867639,
+			"rank_lw": 61,
+			"rank_2w": 44,
+			"peak_rank": 6,
+			"peak_date": "12/13/2014",
+			"debut_rank": 25,
+			"debut_date": "11/22/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 70,
+			"feature_code": "B",
+			"artist_name": "James Newton Howard Featuring Jennifer Lawrence",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 101765,
+					"artist_name": "James Newton Howard",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 111271,
+					"artist_name": "Jennifer Lawrence",
+					"credit": 0.3
+				}],
+			"title": "The Hanging Tree",
+			"imprint": "Lions Gate",
+			"label": "Republic",
+			"writer_names": "Suzanne Collins, Jeremiah Caleb Fraites, Wesley Schultz",
+			"short_writer_names": "S.Collins, J.C.Fraites, W.Schultz",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 26632,
+					"writer_name": "Wesley Schultz",
+					"short_name": "W.Schultz"
+				},
+				{
+					"billboard_writer_id": 26633,
+					"writer_name": "Jeremiah Caleb Fraites",
+					"short_name": "J.C.Fraites"
+				},
+				{
+					"billboard_writer_id": 29781,
+					"writer_name": "Suzanne Collins",
+					"short_name": "S.Collins"
+				}],
+			"producer_names": "James Newton-Howard, Sven Faulconer, Jim Weidman",
+			"short_producer_names": "J.Newton-Howard, S.Faulconer, J.Weidman",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 7327,
+					"producer_name": "James Newton-Howard",
+					"short_name": "J.Newton-Howard"
+				},
+				{
+					"billboard_producer_id": 19085,
+					"producer_name": "Sven Faulconer",
+					"short_name": "S.Faulconer"
+				},
+				{
+					"billboard_producer_id": 19086,
+					"producer_name": "Jim Weidman",
+					"short_name": "J.Weidman"
+				}],
+			"billboard_artist_id": 133949,
+			"billboard_title_id": 870908,
+			"rank_lw": 81,
+			"rank_2w": 77,
+			"peak_rank": 12,
+			"peak_date": "12/13/2014",
+			"debut_rank": 12,
+			"debut_date": "12/13/2014",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 71,
+			"feature_code": "Z",
+			"artist_name": "Taylor Swift",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 92219,
+					"artist_name": "Taylor Swift",
+					"credit": 1
+				}],
+			"title": "New Romantics",
+			"imprint": "Big Machine",
+			"label": "Republic",
+			"writer_names": "Taylor Swift, Martin Karl \"Max Martin\" Sandberg, Johan Karl \"Shellback\" Schuster",
+			"short_writer_names": "T.Swift, Max Martin, Shellback",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 20821,
+					"writer_name": "Taylor Swift",
+					"short_name": "T.Swift"
+				},
+				{
+					"billboard_writer_id": 22678,
+					"writer_name": "Johan Karl \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"producer_names": "Martin Karl \"Max Martin\" Sandberg, Johan \"Shellback\" Schuster",
+			"short_producer_names": "Max Martin, Shellback",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10915,
+					"producer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_producer_id": 16551,
+					"producer_name": "Johan \"Shellback\" Schuster",
+					"short_name": "Shellback"
+				}],
+			"billboard_artist_id": 92219,
+			"billboard_title_id": 866513,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 71,
+			"peak_date": "03/21/2015",
+			"debut_rank": 71,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 72,
+			"feature_code": "B",
+			"artist_name": "Fall Out Boy",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 86674,
+					"artist_name": "Fall Out Boy",
+					"credit": 1
+				}],
+			"title": "Immortals",
+			"imprint": "Walt Disney/DCD2",
+			"label": "Island",
+			"writer_names": "Andy Hurley, Joseph Trohman, Patrick Vaughn Stump, Peter Wentz",
+			"short_writer_names": "A.Hurley, J.Trohman, P.V.Stump, P.Wentz",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 20055,
+					"writer_name": "Peter Wentz",
+					"short_name": "P.Wentz"
+				},
+				{
+					"billboard_writer_id": 20295,
+					"writer_name": "Patrick Vaughn Stump",
+					"short_name": "P.V.Stump"
+				},
+				{
+					"billboard_writer_id": 29549,
+					"writer_name": "Joseph Trohman",
+					"short_name": "J.Trohman"
+				},
+				{
+					"billboard_writer_id": 29601,
+					"writer_name": "Andy Hurley",
+					"short_name": "A.Hurley"
+				}],
+			"producer_names": "Bradley \"Butch\" Glenn  Walker",
+			"short_producer_names": "B.Walker",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 13824,
+					"producer_name": "Bradley \"Butch\" Glenn  Walker",
+					"short_name": "B.Walker"
+				}],
+			"billboard_artist_id": 86674,
+			"billboard_title_id": 864967,
+			"rank_lw": 78,
+			"rank_2w": 0,
+			"peak_rank": 72,
+			"peak_date": "03/21/2015",
+			"debut_rank": 96,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 73,
+			"feature_code": "B",
+			"artist_name": "Dierks Bentley",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 84634,
+					"artist_name": "Dierks Bentley",
+					"credit": 1
+				}],
+			"title": "Say You Do",
+			"imprint": "Capitol Nashville",
+			"label": "",
+			"writer_names": "Matthew Thomas Ramsey, Shane McAnally, Trevor Rosen",
+			"short_writer_names": "M.Ramsey, S.McAnally, T. Rosen",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 15916,
+					"writer_name": "Shane McAnally",
+					"short_name": "S.McAnally"
+				},
+				{
+					"billboard_writer_id": 24009,
+					"writer_name": "Trevor Rosen",
+					"short_name": "T. Rosen"
+				},
+				{
+					"billboard_writer_id": 26310,
+					"writer_name": "Matthew Thomas Ramsey",
+					"short_name": "M.Ramsey"
+				}],
+			"producer_names": "Ross Copperman",
+			"short_producer_names": "R. Copperman",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17218,
+					"producer_name": "Ross Copperman",
+					"short_name": "R. Copperman"
+				}],
+			"billboard_artist_id": 84634,
+			"billboard_title_id": 816286,
+			"rank_lw": 76,
+			"rank_2w": 79,
+			"peak_rank": 73,
+			"peak_date": "03/21/2015",
+			"debut_rank": 96,
+			"debut_date": "01/31/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 74,
+			"feature_code": "B",
+			"artist_name": "Sheppard",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 129607,
+					"artist_name": "Sheppard",
+					"credit": 1
+				}],
+			"title": "Geronimo",
+			"imprint": "Empire Of Song/SchoolBoy",
+			"label": "Republic",
+			"writer_names": "George Sheppard, Amy Sheppard, Jay Bovino",
+			"short_writer_names": "G.Sheppard, A.Sheppard, J.Bovino",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29838,
+					"writer_name": "George Sheppard",
+					"short_name": "G.Sheppard"
+				},
+				{
+					"billboard_writer_id": 29839,
+					"writer_name": "Amy Sheppard",
+					"short_name": "A.Sheppard"
+				},
+				{
+					"billboard_writer_id": 29840,
+					"writer_name": "Jay Bovino",
+					"short_name": "J.Bovino"
+				}],
+			"producer_names": "Stuart Stuart",
+			"short_producer_names": "S.Stuart",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 19120,
+					"producer_name": "Stuart Stuart",
+					"short_name": "S.Stuart"
+				}],
+			"billboard_artist_id": 129607,
+			"billboard_title_id": 850503,
+			"rank_lw": 79,
+			"rank_2w": 76,
+			"peak_rank": 74,
+			"peak_date": "02/28/2015",
+			"debut_rank": 90,
+			"debut_date": "12/20/2014",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 75,
+			"feature_code": "B",
+			"artist_name": "Drake",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 104286,
+					"artist_name": "Drake",
+					"credit": 1
+				}],
+			"title": "10 Bands",
+			"imprint": "Young Money/Cash Money",
+			"label": "Republic",
+			"writer_names": "Aubrey \"Drake\" Graham, Q. Miller, Matthew \"Boi-1da\" Samuels, Adam \"Frank Dukes\" Feeny, R. Thomas III",
+			"short_writer_names": "A.Graham, Q.Miller, M.Samuels, A.Feeny, R.Thomas III",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 23321,
+					"writer_name": "Matthew \"Boi-1da\" Samuels",
+					"short_name": "M.Samuels"
+				},
+				{
+					"billboard_writer_id": 23322,
+					"writer_name": "Aubrey \"Drake\" Graham",
+					"short_name": "A.Graham"
+				},
+				{
+					"billboard_writer_id": 28934,
+					"writer_name": "Adam \"Frank Dukes\" Feeny",
+					"short_name": "A.Feeny"
+				},
+				{
+					"billboard_writer_id": 30105,
+					"writer_name": "Q. Miller",
+					"short_name": "Q.Miller"
+				},
+				{
+					"billboard_writer_id": 30106,
+					"writer_name": "R. Thomas III",
+					"short_name": "R.Thomas III"
+				}],
+			"producer_names": "Matthew \"Boi-1da\" Samuels, Adam \"Frank Dukes\" Feeny",
+			"short_producer_names": "Boi-1da, Frank Dukes",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16379,
+					"producer_name": "Matthew \"Boi-1da\" Samuels",
+					"short_name": "Boi-1da"
+				},
+				{
+					"billboard_producer_id": 18680,
+					"producer_name": "Adam \"Frank Dukes\" Feeny",
+					"short_name": "Frank Dukes"
+				}],
+			"billboard_artist_id": 104286,
+			"billboard_title_id": 878109,
+			"rank_lw": 73,
+			"rank_2w": 58,
+			"peak_rank": 58,
+			"peak_date": "03/07/2015",
+			"debut_rank": 88,
+			"debut_date": "02/28/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 76,
+			"feature_code": " ",
+			"artist_name": "Luke Bryan",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 93888,
+					"artist_name": "Luke Bryan",
+					"credit": 1
+				}],
+			"title": "I See You",
+			"imprint": "Capitol Nashville",
+			"label": "",
+			"writer_names": "Luke Bryan, Luke Laird, Ashley Gorley",
+			"short_writer_names": "L.Bryan, L.Laird, A.Gorley",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 9665,
+					"writer_name": "Luke Bryan",
+					"short_name": "L.Bryan"
+				},
+				{
+					"billboard_writer_id": 18057,
+					"writer_name": "Ashley Gorley",
+					"short_name": "A.Gorley"
+				},
+				{
+					"billboard_writer_id": 21726,
+					"writer_name": "Luke Laird",
+					"short_name": "L.Laird"
+				}],
+			"producer_names": "Jeff Stevens",
+			"short_producer_names": "J.Stevens",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12742,
+					"producer_name": "Jeff Stevens",
+					"short_name": "J.Stevens"
+				}],
+			"billboard_artist_id": 93888,
+			"billboard_title_id": 790917,
+			"rank_lw": 67,
+			"rank_2w": 53,
+			"peak_rank": 41,
+			"peak_date": "02/07/2015",
+			"debut_rank": 89,
+			"debut_date": "12/13/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 77,
+			"feature_code": "B",
+			"artist_name": "Tyler Farr",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 110538,
+					"artist_name": "Tyler Farr",
+					"credit": 1
+				}],
+			"title": "A Guy Walks Into A Bar",
+			"imprint": "Columbia Nashville",
+			"label": "",
+			"writer_names": "Melissa Peirce, Jonathan Singleton, Brad Tursi",
+			"short_writer_names": "M.Peirce, J.Singleton, B.Tursi",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 18356,
+					"writer_name": "Melissa Peirce",
+					"short_name": "M.Peirce"
+				},
+				{
+					"billboard_writer_id": 21694,
+					"writer_name": "Jonathan Singleton",
+					"short_name": "J.Singleton"
+				},
+				{
+					"billboard_writer_id": 25175,
+					"writer_name": "Brad Tursi",
+					"short_name": "B.Tursi"
+				}],
+			"producer_names": "Jim Catino, Julian King",
+			"short_producer_names": "J.Catino, J.King",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12458,
+					"producer_name": "Julian King",
+					"short_name": "J.King"
+				},
+				{
+					"billboard_producer_id": 17474,
+					"producer_name": "Jim Catino",
+					"short_name": "J.Catino"
+				}],
+			"billboard_artist_id": 110538,
+			"billboard_title_id": 853899,
+			"rank_lw": 82,
+			"rank_2w": 86,
+			"peak_rank": 77,
+			"peak_date": "03/21/2015",
+			"debut_rank": 97,
+			"debut_date": "01/17/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 78,
+			"feature_code": "B",
+			"artist_name": "George Ezra",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 128315,
+					"artist_name": "George Ezra",
+					"credit": 1
+				}],
+			"title": "Budapest",
+			"imprint": "Columbia",
+			"label": "",
+			"writer_names": "George Ezra, Joel Pott",
+			"short_writer_names": "G. Ezra, J.Pott",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29388,
+					"writer_name": "George Ezra",
+					"short_name": "G. Ezra"
+				},
+				{
+					"billboard_writer_id": 29389,
+					"writer_name": "Joel Pott",
+					"short_name": "J.Pott"
+				}],
+			"producer_names": "Cam Blackwood",
+			"short_producer_names": "Blackwood C.",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18896,
+					"producer_name": "Cam Blackwood",
+					"short_name": "Blackwood C."
+				}],
+			"billboard_artist_id": 128315,
+			"billboard_title_id": 814244,
+			"rank_lw": 85,
+			"rank_2w": 94,
+			"peak_rank": 78,
+			"peak_date": "03/21/2015",
+			"debut_rank": 81,
+			"debut_date": "02/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": true
+		},
+		{
+			"rank": 79,
+			"feature_code": "B",
+			"artist_name": "Tori Kelly",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 119360,
+					"artist_name": "Tori Kelly",
+					"credit": 1
+				}],
+			"title": "Nobody Love",
+			"imprint": "Capitol",
+			"label": "",
+			"writer_names": "Tori Kelly, Martin Karl \"Max Martin\" Sandberg, Savan Kotecha, Rickard B. Goransson",
+			"short_writer_names": "T.Kelly, Max Martin, S.Kotecha, R.B. Goransson",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 3183,
+					"writer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_writer_id": 20066,
+					"writer_name": "Savan Kotecha",
+					"short_name": "S.Kotecha"
+				},
+				{
+					"billboard_writer_id": 28153,
+					"writer_name": "Rickard B. Goransson",
+					"short_name": "R.B. Goransson"
+				},
+				{
+					"billboard_writer_id": 30130,
+					"writer_name": "Tori Kelly",
+					"short_name": "T.Kelly"
+				}],
+			"producer_names": "Martin Karl \"Max Martin\" Sandberg, Rickard B. Goransson",
+			"short_producer_names": "Max Martin, R.B.Goransson",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 10915,
+					"producer_name": "Martin Karl \"Max Martin\" Sandberg",
+					"short_name": "Max Martin"
+				},
+				{
+					"billboard_producer_id": 18327,
+					"producer_name": "Rickard B. Goransson",
+					"short_name": "R.B.Goransson"
+				}],
+			"billboard_artist_id": 119360,
+			"billboard_title_id": 877346,
+			"rank_lw": 89,
+			"rank_2w": 0,
+			"peak_rank": 79,
+			"peak_date": "03/21/2015",
+			"debut_rank": 89,
+			"debut_date": "03/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 80,
+			"feature_code": " ",
+			"artist_name": "OneRepublic",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 94581,
+					"artist_name": "OneRepublic",
+					"credit": 1
+				}],
+			"title": "I Lived",
+			"imprint": "Mosley",
+			"label": "Interscope",
+			"writer_names": "Ryan B. \"Alias\" Tedder, Noel Zancanella",
+			"short_writer_names": "R.B.Tedder, N.Zancanella",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 21254,
+					"writer_name": "Ryan B. \"Alias\" Tedder",
+					"short_name": "R.B.Tedder"
+				},
+				{
+					"billboard_writer_id": 23833,
+					"writer_name": "Noel Zancanella",
+					"short_name": "N.Zancanella"
+				}],
+			"producer_names": "Ryan B.\"Alias\"  Tedder, Brent Kutzle",
+			"short_producer_names": "R.B.Tedder, B.Kutzle",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15353,
+					"producer_name": "Ryan B.\"Alias\"  Tedder",
+					"short_name": "R.B.Tedder"
+				},
+				{
+					"billboard_producer_id": 16626,
+					"producer_name": "Brent Kutzle",
+					"short_name": "B.Kutzle"
+				}],
+			"billboard_artist_id": 94581,
+			"billboard_title_id": 777782,
+			"rank_lw": 74,
+			"rank_2w": 63,
+			"peak_rank": 32,
+			"peak_date": "01/31/2015",
+			"debut_rank": 71,
+			"debut_date": "12/13/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 81,
+			"feature_code": " ",
+			"artist_name": "Florida Georgia Line",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 119603,
+					"artist_name": "Florida Georgia Line",
+					"credit": 1
+				}],
+			"title": "Sun Daze",
+			"imprint": "Republic Nashville",
+			"label": "",
+			"writer_names": "Cary Ryan Barlowe, Jesse Frasure, Sarah Buxton, Tyler Hubbard, Brian Kelley",
+			"short_writer_names": "C.R.Barlowe, J.Frasure, S.Buxton, T.Hubbard, B.Kelley",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 20945,
+					"writer_name": "Sarah Buxton",
+					"short_name": "S.Buxton"
+				},
+				{
+					"billboard_writer_id": 21156,
+					"writer_name": "Cary Ryan Barlowe",
+					"short_name": "C.R.Barlowe"
+				},
+				{
+					"billboard_writer_id": 25238,
+					"writer_name": "Jesse Frasure",
+					"short_name": "J.Frasure"
+				},
+				{
+					"billboard_writer_id": 26703,
+					"writer_name": "Brian Kelley",
+					"short_name": "B.Kelley"
+				},
+				{
+					"billboard_writer_id": 26704,
+					"writer_name": "Tyler Hubbard",
+					"short_name": "T.Hubbard"
+				}],
+			"producer_names": "Joey Moi",
+			"short_producer_names": "J.Moi",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 13991,
+					"producer_name": "Joey Moi",
+					"short_name": "J.Moi"
+				}],
+			"billboard_artist_id": 119603,
+			"billboard_title_id": 860692,
+			"rank_lw": 69,
+			"rank_2w": 56,
+			"peak_rank": 44,
+			"peak_date": "02/07/2015",
+			"debut_rank": 83,
+			"debut_date": "10/04/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 82,
+			"feature_code": " ",
+			"artist_name": "Randy Houser",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 97747,
+					"artist_name": "Randy Houser",
+					"credit": 1
+				}],
+			"title": "Like A Cowboy",
+			"imprint": "Stoney Creek",
+			"label": "",
+			"writer_names": "Randy Houser, Brice Long",
+			"short_writer_names": "R.Houser, B.Long",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19355,
+					"writer_name": "Brice Long",
+					"short_name": "B.Long"
+				},
+				{
+					"billboard_writer_id": 19887,
+					"writer_name": "Randy Houser",
+					"short_name": "R.Houser"
+				}],
+			"producer_names": "Derek George",
+			"short_producer_names": "D.George",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 12681,
+					"producer_name": "Derek George",
+					"short_name": "D.George"
+				}],
+			"billboard_artist_id": 97747,
+			"billboard_title_id": 771793,
+			"rank_lw": 65,
+			"rank_2w": 64,
+			"peak_rank": 62,
+			"peak_date": "02/14/2015",
+			"debut_rank": 98,
+			"debut_date": "12/20/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 83,
+			"feature_code": "B",
+			"artist_name": "A Thousand Horses",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 134406,
+					"artist_name": "A Thousand Horses",
+					"credit": 1
+				}],
+			"title": "Smoke",
+			"imprint": "Republic Nashville",
+			"label": "",
+			"writer_names": "Michael Hobby, Jon Mark Nite, Ross Copperman",
+			"short_writer_names": "M.Hobby, J.M.Nite, R.Copperman",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25271,
+					"writer_name": "Ross Copperman",
+					"short_name": "R.Copperman"
+				},
+				{
+					"billboard_writer_id": 26361,
+					"writer_name": "Jon Mark Nite",
+					"short_name": "J.M.Nite"
+				},
+				{
+					"billboard_writer_id": 29920,
+					"writer_name": "Michael Hobby",
+					"short_name": "M.Hobby"
+				}],
+			"producer_names": "Dave Cobb",
+			"short_producer_names": "D.Cobb",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14517,
+					"producer_name": "Dave Cobb",
+					"short_name": "D.Cobb"
+				}],
+			"billboard_artist_id": 134406,
+			"billboard_title_id": 869507,
+			"rank_lw": 90,
+			"rank_2w": 0,
+			"peak_rank": 83,
+			"peak_date": "03/21/2015",
+			"debut_rank": 90,
+			"debut_date": "03/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 84,
+			"feature_code": "B",
+			"artist_name": "Keith Urban Featuring Eric Church",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 27962,
+					"artist_name": "Keith Urban",
+					"credit": 0.7
+				},
+				{
+					"billboard_artist_id": 91347,
+					"artist_name": "Eric Church",
+					"credit": 0.3
+				}],
+			"title": "Raise 'Em Up",
+			"imprint": "Hit Red",
+			"label": "Capitol Nashville",
+			"writer_names": "Jaren Johnston, Jeffrey Steele, Tom Douglas",
+			"short_writer_names": "J.Johnston, J.Steele, T.Douglas",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5,
+					"writer_name": "Jaren Johnston",
+					"short_name": "J.Johnston"
+				},
+				{
+					"billboard_writer_id": 10355,
+					"writer_name": "Tom Douglas",
+					"short_name": "T.Douglas"
+				},
+				{
+					"billboard_writer_id": 11176,
+					"writer_name": "Jeffrey Steele",
+					"short_name": "J.Steele"
+				}],
+			"producer_names": "Nathan Chapman, Keith Urban",
+			"short_producer_names": "N.Chapman, K.Urban",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 11976,
+					"producer_name": "Keith Urban",
+					"short_name": "K.Urban"
+				},
+				{
+					"billboard_producer_id": 15036,
+					"producer_name": "Nathan Chapman",
+					"short_name": "N.Chapman"
+				}],
+			"billboard_artist_id": 126345,
+			"billboard_title_id": 796432,
+			"rank_lw": 93,
+			"rank_2w": 0,
+			"peak_rank": 84,
+			"peak_date": "03/21/2015",
+			"debut_rank": 93,
+			"debut_date": "03/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 85,
+			"feature_code": "B",
+			"artist_name": "Miranda Lambert",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 88171,
+					"artist_name": "Miranda Lambert",
+					"credit": 1
+				}],
+			"title": "Little Red Wagon",
+			"imprint": "RCA Nashville",
+			"label": "",
+			"writer_names": "Audra Mae, Joe Ginsberg",
+			"short_writer_names": "A.Mae, Ginsberg J.",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29390,
+					"writer_name": "Audra Mae",
+					"short_name": "A.Mae"
+				},
+				{
+					"billboard_writer_id": 29391,
+					"writer_name": "Joe Ginsberg",
+					"short_name": "Ginsberg J."
+				}],
+			"producer_names": "Frank Liddell, Chuck Ainlay, Glenn Worf",
+			"short_producer_names": "F.Liddell, C.Ainlay, G.Worf",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 2769,
+					"producer_name": "Glenn Worf",
+					"short_name": "G.Worf"
+				},
+				{
+					"billboard_producer_id": 12214,
+					"producer_name": "Frank Liddell",
+					"short_name": "F.Liddell"
+				},
+				{
+					"billboard_producer_id": 12309,
+					"producer_name": "Chuck Ainlay",
+					"short_name": "C.Ainlay"
+				}],
+			"billboard_artist_id": 88171,
+			"billboard_title_id": 848107,
+			"rank_lw": 87,
+			"rank_2w": 93,
+			"peak_rank": 76,
+			"peak_date": "02/28/2015",
+			"debut_rank": 76,
+			"debut_date": "02/28/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 86,
+			"feature_code": "B",
+			"artist_name": "Silento",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 135108,
+					"artist_name": "Silento",
+					"credit": 1
+				}],
+			"title": "Watch Me",
+			"imprint": "Bolo",
+			"label": "",
+			"writer_names": "Timothy B. Mingo, Ricky L. Hawk",
+			"short_writer_names": "T.B.Mingo, R.L.Hawk",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 30131,
+					"writer_name": "Timothy B. Mingo",
+					"short_name": "T.B.Mingo"
+				},
+				{
+					"billboard_writer_id": 30132,
+					"writer_name": "Ricky L. Hawk",
+					"short_name": "R.L.Hawk"
+				}],
+			"producer_names": "Bolo Da Producer",
+			"short_producer_names": "Bolo Da Producer",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 19265,
+					"producer_name": "Bolo Da Producer",
+					"short_name": "Bolo Da Producer"
+				}],
+			"billboard_artist_id": 135108,
+			"billboard_title_id": 879308,
+			"rank_lw": 98,
+			"rank_2w": 0,
+			"peak_rank": 86,
+			"peak_date": "03/21/2015",
+			"debut_rank": 98,
+			"debut_date": "03/14/2015",
+			"bullet": true,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 87,
+			"feature_code": "Y",
+			"artist_name": "Andy Grammer",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 112371,
+					"artist_name": "Andy Grammer",
+					"credit": 1
+				}],
+			"title": "Honey, I'm Good.",
+			"imprint": "S-Curve",
+			"label": "Hollywood",
+			"writer_names": "Andy Grammer, Nolan W. Sipe",
+			"short_writer_names": "A.Grammer, N.W.Sipe",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25766,
+					"writer_name": "Nolan W. Sipe",
+					"short_name": "N.W.Sipe"
+				},
+				{
+					"billboard_writer_id": 25837,
+					"writer_name": "Andy Grammer",
+					"short_name": "A.Grammer"
+				}],
+			"producer_names": "Brian West, Nolan W. Sipe, Steve Greenberg",
+			"short_producer_names": "B.West, N.W.Sipe, S.Greenberg",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 2083,
+					"producer_name": "Steve Greenberg",
+					"short_name": "S.Greenberg"
+				},
+				{
+					"billboard_producer_id": 13245,
+					"producer_name": "Brian West",
+					"short_name": "B.West"
+				},
+				{
+					"billboard_producer_id": 18821,
+					"producer_name": "Nolan W. Sipe",
+					"short_name": "N.W.Sipe"
+				}],
+			"billboard_artist_id": 112371,
+			"billboard_title_id": 856746,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 87,
+			"peak_date": "03/21/2015",
+			"debut_rank": 96,
+			"debut_date": "02/28/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 88,
+			"feature_code": " ",
+			"artist_name": "Little Big Town",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 82618,
+					"artist_name": "Little Big Town",
+					"credit": 1
+				}],
+			"title": "Girl Crush",
+			"imprint": "Capitol Nashville",
+			"label": "",
+			"writer_names": "Liz Rose, Lori McKenna, Hillary Lindsey",
+			"short_writer_names": "L.Rose, L.McKenna, H.Lindsey",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 15684,
+					"writer_name": "Hillary Lindsey",
+					"short_name": "H.Lindsey"
+				},
+				{
+					"billboard_writer_id": 17736,
+					"writer_name": "Liz Rose",
+					"short_name": "L.Rose"
+				},
+				{
+					"billboard_writer_id": 21064,
+					"writer_name": "Lori McKenna",
+					"short_name": "L.McKenna"
+				}],
+			"producer_names": "Jay Joyce",
+			"short_producer_names": "J.Joyce",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14531,
+					"producer_name": "Jay Joyce",
+					"short_name": "J.Joyce"
+				}],
+			"billboard_artist_id": 82618,
+			"billboard_title_id": 865526,
+			"rank_lw": 84,
+			"rank_2w": 0,
+			"peak_rank": 84,
+			"peak_date": "03/14/2015",
+			"debut_rank": 100,
+			"debut_date": "02/21/2015",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": false
+		},
+		{
+			"rank": 89,
+			"feature_code": "B",
+			"artist_name": "Jake Owen",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 91401,
+					"artist_name": "Jake Owen",
+					"credit": 1
+				}],
+			"title": "What We Ain't Got",
+			"imprint": "RCA Nashville",
+			"label": "",
+			"writer_names": "Travis Jerome Goff, Travis Meadows",
+			"short_writer_names": "T.J.Goff, T.Meadows",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 25195,
+					"writer_name": "Travis Meadows",
+					"short_name": "T.Meadows"
+				},
+				{
+					"billboard_writer_id": 28479,
+					"writer_name": "Travis Jerome Goff",
+					"short_name": "T.J.Goff"
+				}],
+			"producer_names": "Joey Moi",
+			"short_producer_names": "J.Moi",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 13991,
+					"producer_name": "Joey Moi",
+					"short_name": "J.Moi"
+				}],
+			"billboard_artist_id": 91401,
+			"billboard_title_id": 807745,
+			"rank_lw": 94,
+			"rank_2w": 92,
+			"peak_rank": 89,
+			"peak_date": "02/14/2015",
+			"debut_rank": 95,
+			"debut_date": "01/17/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": true
+		},
+		{
+			"rank": 90,
+			"feature_code": " ",
+			"artist_name": "Eric Church",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 91347,
+					"artist_name": "Eric Church",
+					"credit": 1
+				}],
+			"title": "Talladega",
+			"imprint": "EMI Nashville",
+			"label": "",
+			"writer_names": "Eric Church, Luke Laird",
+			"short_writer_names": "E.Church, L.Laird",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19613,
+					"writer_name": "Eric Church",
+					"short_name": "E.Church"
+				},
+				{
+					"billboard_writer_id": 21726,
+					"writer_name": "Luke Laird",
+					"short_name": "L.Laird"
+				}],
+			"producer_names": "Jay Joyce",
+			"short_producer_names": "J.Joyce",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14531,
+					"producer_name": "Jay Joyce",
+					"short_name": "J.Joyce"
+				}],
+			"billboard_artist_id": 91347,
+			"billboard_title_id": 814807,
+			"rank_lw": 86,
+			"rank_2w": 80,
+			"peak_rank": 43,
+			"peak_date": "02/07/2015",
+			"debut_rank": 90,
+			"debut_date": "11/08/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 91,
+			"feature_code": "Z",
+			"artist_name": "Billy Currington",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 84725,
+					"artist_name": "Billy Currington",
+					"credit": 1
+				}],
+			"title": "Don't It",
+			"imprint": "Mercury Nashville",
+			"label": "",
+			"writer_names": "Jaren Johnston, Ashley Gorley, Ross Copperman",
+			"short_writer_names": "J.Johnston, A.Gorley, R.Copperman",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 5,
+					"writer_name": "Jaren Johnston",
+					"short_name": "J.Johnston"
+				},
+				{
+					"billboard_writer_id": 18057,
+					"writer_name": "Ashley Gorley",
+					"short_name": "A.Gorley"
+				},
+				{
+					"billboard_writer_id": 25271,
+					"writer_name": "Ross Copperman",
+					"short_name": "R.Copperman"
+				}],
+			"producer_names": "Dann Huff",
+			"short_producer_names": "D.Huff",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 11507,
+					"producer_name": "Dann Huff",
+					"short_name": "D.Huff"
+				}],
+			"billboard_artist_id": 84725,
+			"billboard_title_id": 863446,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 91,
+			"peak_date": "03/21/2015",
+			"debut_rank": 91,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 92,
+			"feature_code": "Y",
+			"artist_name": "Fifth Harmony Featuring Kid Ink",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 118104,
+					"artist_name": "Kid Ink",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 125377,
+					"artist_name": "Fifth Harmony",
+					"credit": 0.7
+				}],
+			"title": "Worth It",
+			"imprint": "SYCO",
+			"label": "Epic",
+			"writer_names": "Priscilla Renea Hamilton, Mikkel Storleer Eriksen, Tor Erik Hermansen, Ori Kaplan",
+			"short_writer_names": "Priscilla Renea, M.S.Eriksen, T.E.Hermansen, O.Kaplan",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 17230,
+					"writer_name": "Tor Erik Hermansen",
+					"short_name": "T.E.Hermansen"
+				},
+				{
+					"billboard_writer_id": 20350,
+					"writer_name": "Mikkel Storleer Eriksen",
+					"short_name": "M.S.Eriksen"
+				},
+				{
+					"billboard_writer_id": 25659,
+					"writer_name": "Priscilla Renea Hamilton",
+					"short_name": "Priscilla Renea"
+				},
+				{
+					"billboard_writer_id": 27851,
+					"writer_name": "Ori Kaplan",
+					"short_name": "O.Kaplan"
+				}],
+			"producer_names": "StarGate, Ori Kaplan",
+			"short_producer_names": "StarGate, O.Kaplan",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 13242,
+					"producer_name": "StarGate",
+					"short_name": "StarGate"
+				},
+				{
+					"billboard_producer_id": 19203,
+					"producer_name": "Ori Kaplan",
+					"short_name": "O.Kaplan"
+				}],
+			"billboard_artist_id": 134656,
+			"billboard_title_id": 875783,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 82,
+			"peak_date": "02/07/2015",
+			"debut_rank": 82,
+			"debut_date": "02/07/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 93,
+			"feature_code": "Z",
+			"artist_name": "Cashmere Cat Featuring Ariana Grande",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 112556,
+					"artist_name": "Ariana Grande",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 128529,
+					"artist_name": "Cashmere Cat",
+					"credit": 0.7
+				}],
+			"title": "Adore",
+			"imprint": "Friends Keep Secrets",
+			"label": "Interscope",
+			"writer_names": "Magnus August Hoiberg, Benjamin \"Benny Blanco\" Levin, Ammar Malik, Jeremy \"Jeremih\" Philip Felton, Kenneth \"Babyface\" Edmonds, Darryl Simmons, Peder Losnegard",
+			"short_writer_names": "M.A.Hoiberg, B.Levin, A.Malik, J.P.Felton, Babyface, D.Simmons, P.Losnegard",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 905,
+					"writer_name": "Darryl Simmons",
+					"short_name": "D.Simmons"
+				},
+				{
+					"billboard_writer_id": 5609,
+					"writer_name": "Kenneth \"Babyface\" Edmonds",
+					"short_name": "Babyface"
+				},
+				{
+					"billboard_writer_id": 22921,
+					"writer_name": "Benjamin \"Benny Blanco\" Levin",
+					"short_name": "B.Levin"
+				},
+				{
+					"billboard_writer_id": 23120,
+					"writer_name": "Jeremy \"Jeremih\" Philip Felton",
+					"short_name": "J.P.Felton"
+				},
+				{
+					"billboard_writer_id": 25870,
+					"writer_name": "Ammar Malik",
+					"short_name": "A.Malik"
+				},
+				{
+					"billboard_writer_id": 28764,
+					"writer_name": "Magnus August Hoiberg",
+					"short_name": "M.A.Hoiberg"
+				},
+				{
+					"billboard_writer_id": 28765,
+					"writer_name": "Peder Losnegard",
+					"short_name": "P.Losnegard"
+				}],
+			"producer_names": "Cashmere Cat, Benjamin \"Benny Blanco\" Levin, Lido",
+			"short_producer_names": "Cashmere Cat, Benny Blanco, Lido",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 16157,
+					"producer_name": "Benjamin \"Benny Blanco\" Levin",
+					"short_name": "Benny Blanco"
+				},
+				{
+					"billboard_producer_id": 18591,
+					"producer_name": "Cashmere Cat",
+					"short_name": "Cashmere Cat"
+				},
+				{
+					"billboard_producer_id": 18592,
+					"producer_name": "Lido",
+					"short_name": "Lido"
+				}],
+			"billboard_artist_id": 135292,
+			"billboard_title_id": 880883,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 93,
+			"peak_date": "03/21/2015",
+			"debut_rank": 93,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 94,
+			"feature_code": "Z",
+			"artist_name": "Eric Paslay",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 115013,
+					"artist_name": "Eric Paslay",
+					"credit": 1
+				}],
+			"title": "She Don't Love You",
+			"imprint": "EMI Nashville",
+			"label": "",
+			"writer_names": "Eric Paslay, Jennifer Wayne",
+			"short_writer_names": "E.Paslay, J.Wayne",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 24936,
+					"writer_name": "Jennifer Wayne",
+					"short_name": "J.Wayne"
+				},
+				{
+					"billboard_writer_id": 25669,
+					"writer_name": "Eric Paslay",
+					"short_name": "E.Paslay"
+				}],
+			"producer_names": "Marshall Altman",
+			"short_producer_names": "M.Altman",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 14935,
+					"producer_name": "Marshall Altman",
+					"short_name": "M.Altman"
+				}],
+			"billboard_artist_id": 115013,
+			"billboard_title_id": 814458,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 94,
+			"peak_date": "03/21/2015",
+			"debut_rank": 94,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 95,
+			"feature_code": "Y",
+			"artist_name": "Ciara",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 86857,
+					"artist_name": "Ciara",
+					"credit": 1
+				}],
+			"title": "I Bet",
+			"imprint": "Epic",
+			"label": "",
+			"writer_names": "Harvey \"Harmony/H-Moneys\" David Samuels, Timothy Thomas, Theron Thomas, Ciara P. Harris",
+			"short_writer_names": "H.D.Samuels, T.Thomas, T.Thomas, C.P.Harris",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 20204,
+					"writer_name": "Ciara P. Harris",
+					"short_name": "C.P.Harris"
+				},
+				{
+					"billboard_writer_id": 25433,
+					"writer_name": "Theron Thomas",
+					"short_name": "T.Thomas"
+				},
+				{
+					"billboard_writer_id": 25434,
+					"writer_name": "Timothy Thomas",
+					"short_name": "T.Thomas"
+				},
+				{
+					"billboard_writer_id": 26366,
+					"writer_name": "Harvey \"Harmony/H-Moneys\" David Samuels",
+					"short_name": "H.D.Samuels"
+				}],
+			"producer_names": "Harvey \"Harmony/H-Moneys\" David Samuels",
+			"short_producer_names": "H-Money",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 17464,
+					"producer_name": "Harvey \"Harmony/H-Moneys\" David Samuels",
+					"short_name": "H-Money"
+				}],
+			"billboard_artist_id": 86857,
+			"billboard_title_id": 875121,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 95,
+			"peak_date": "03/21/2015",
+			"debut_rank": 96,
+			"debut_date": "02/14/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 96,
+			"feature_code": "Z",
+			"artist_name": "Meek Mill",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 106926,
+					"artist_name": "Meek Mill",
+					"credit": 1
+				}],
+			"title": "Monster",
+			"imprint": "Maybach",
+			"label": "Atlantic",
+			"writer_names": "Not Listed",
+			"short_writer_names": "Not Listed",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 633,
+					"writer_name": "Not Listed",
+					"short_name": "Not Listed"
+				}],
+			"producer_names": "Not Listed",
+			"short_producer_names": "Not Listed",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 5584,
+					"producer_name": "Not Listed",
+					"short_name": "Not Listed"
+				}],
+			"billboard_artist_id": 106926,
+			"billboard_title_id": 875126,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 96,
+			"peak_date": "03/21/2015",
+			"debut_rank": 96,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 97,
+			"feature_code": "Z",
+			"artist_name": "Skrillex & Diplo Featuring Justin Bieber",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 102443,
+					"artist_name": "Diplo",
+					"credit": 0.35
+				},
+				{
+					"billboard_artist_id": 104589,
+					"artist_name": "Justin Bieber",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 111853,
+					"artist_name": "Skrillex",
+					"credit": 0.35
+				},
+				{
+					"billboard_artist_id": 132724,
+					"artist_name": "Jack U",
+					"credit": 0
+				}],
+			"title": "Where Are U Now",
+			"imprint": "Mad Decent/OWSLA",
+			"label": "Atlantic",
+			"writer_names": "Not Listed",
+			"short_writer_names": "Not Listed",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 633,
+					"writer_name": "Not Listed",
+					"short_name": "Not Listed"
+				}],
+			"producer_names": "Not Listed",
+			"short_producer_names": "Not Listed",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 5584,
+					"producer_name": "Not Listed",
+					"short_name": "Not Listed"
+				}],
+			"billboard_artist_id": 135198,
+			"billboard_title_id": 879882,
+			"rank_lw": 0,
+			"rank_2w": 0,
+			"peak_rank": 97,
+			"peak_date": "03/21/2015",
+			"debut_rank": 97,
+			"debut_date": "03/21/2015",
+			"bullet": true,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 98,
+			"feature_code": " ",
+			"artist_name": "Fifth Harmony",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 125377,
+					"artist_name": "Fifth Harmony",
+					"credit": 1
+				}],
+			"title": "Sledgehammer",
+			"imprint": "SYCO",
+			"label": "Epic",
+			"writer_names": "Jonas Jeberg, Meghan Trainor, Sean Douglas",
+			"short_writer_names": "J.Jeberg, M.Trainor, S.Douglas",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 22317,
+					"writer_name": "Jonas Jeberg",
+					"short_name": "J.Jeberg"
+				},
+				{
+					"billboard_writer_id": 27569,
+					"writer_name": "Sean Douglas",
+					"short_name": "S.Douglas"
+				},
+				{
+					"billboard_writer_id": 29293,
+					"writer_name": "Meghan Trainor",
+					"short_name": "M.Trainor"
+				}],
+			"producer_names": "Jonas Jeberg",
+			"short_producer_names": "J.Jeberg",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 15384,
+					"producer_name": "Jonas Jeberg",
+					"short_name": "J.Jeberg"
+				}],
+			"billboard_artist_id": 125377,
+			"billboard_title_id": 866495,
+			"rank_lw": 91,
+			"rank_2w": 87,
+			"peak_rank": 40,
+			"peak_date": "01/10/2015",
+			"debut_rank": 93,
+			"debut_date": "12/13/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 99,
+			"feature_code": " ",
+			"artist_name": "DeJ Loaf",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 132856,
+					"artist_name": "DeJ Loaf",
+					"credit": 1
+				}],
+			"title": "Try Me",
+			"imprint": "IBGM",
+			"label": "Columbia",
+			"writer_names": "DeJa \"DeJ Loaf\" Monet Trimble, David Demal Smith",
+			"short_writer_names": "D.M.Trimble, D.D.Smith",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 29602,
+					"writer_name": "DeJa \"DeJ Loaf\" Monet Trimble",
+					"short_name": "D.M.Trimble"
+				},
+				{
+					"billboard_writer_id": 29603,
+					"writer_name": "David Demal Smith",
+					"short_name": "D.D.Smith"
+				}],
+			"producer_names": "DDS",
+			"short_producer_names": "DDS",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18994,
+					"producer_name": "DDS",
+					"short_name": "DDS"
+				}],
+			"billboard_artist_id": 132856,
+			"billboard_title_id": 859854,
+			"rank_lw": 96,
+			"rank_2w": 90,
+			"peak_rank": 45,
+			"peak_date": "12/27/2014",
+			"debut_rank": 67,
+			"debut_date": "11/08/2014",
+			"bullet": false,
+			"bullet_lw": false,
+			"bullet_2w": false
+		},
+		{
+			"rank": 100,
+			"feature_code": " ",
+			"artist_name": "B.o.B Featuring Trey Songz",
+			"credited_artists": [ 
+				{
+					"billboard_artist_id": 89345,
+					"artist_name": "Trey Songz",
+					"credit": 0.3
+				},
+				{
+					"billboard_artist_id": 96110,
+					"artist_name": "B.o.B",
+					"credit": 0.7
+				}],
+			"title": "Not For Long",
+			"imprint": "RebelRock/Grand Hustle",
+			"label": "Atlantic",
+			"writer_names": "Bobby Ray \"B.o.B\" Simmons, Jr., Paulo Rodrigeuz, Mark Nilan, Jr., Paris Alexandria \"PeeJ\" Jones, Alexander \"Xplicit\" Izquierdo, Tremaine \"Trey Songz\" Neverson",
+			"short_writer_names": "B.R.Simmons, Jr., P.Rodriguez, M.Nilan, Jr., P.A.Jones, A.Izquierdo, T.Neverson",
+			"credited_writers": [ 
+				{
+					"billboard_writer_id": 19900,
+					"writer_name": "Tremaine \"Trey Songz\" Neverson",
+					"short_name": "T.Neverson"
+				},
+				{
+					"billboard_writer_id": 22178,
+					"writer_name": "Bobby Ray \"B.o.B\" Simmons, Jr.",
+					"short_name": "B.R.Simmons, Jr."
+				},
+				{
+					"billboard_writer_id": 24066,
+					"writer_name": "Alexander \"Xplicit\" Izquierdo",
+					"short_name": "A.Izquierdo"
+				},
+				{
+					"billboard_writer_id": 29145,
+					"writer_name": "Paris Alexandria \"PeeJ\" Jones",
+					"short_name": "P.A.Jones"
+				},
+				{
+					"billboard_writer_id": 29617,
+					"writer_name": "Paulo Rodrigeuz",
+					"short_name": "P.Rodriguez"
+				},
+				{
+					"billboard_writer_id": 29765,
+					"writer_name": "Mark Nilan, Jr.",
+					"short_name": "M.Nilan, Jr."
+				}],
+			"producer_names": "P Lo, Mark Nilna, Jr.",
+			"short_producer_names": "P Lo, M.Nilan, Jr.",
+			"credited_producers": [ 
+				{
+					"billboard_producer_id": 18246,
+					"producer_name": "P Lo",
+					"short_name": "P Lo"
+				},
+				{
+					"billboard_producer_id": 19080,
+					"producer_name": "Mark Nilna, Jr.",
+					"short_name": "M.Nilan, Jr."
+				}],
+			"billboard_artist_id": 133194,
+			"billboard_title_id": 864449,
+			"rank_lw": 95,
+			"rank_2w": 98,
+			"peak_rank": 80,
+			"peak_date": "02/21/2015",
+			"debut_rank": 96,
+			"debut_date": "01/24/2015",
+			"bullet": false,
+			"bullet_lw": true,
+			"bullet_2w": false
+		}]
+}
